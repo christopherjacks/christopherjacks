@@ -1,2 +1,0 @@
-# christopherjacks
-My personal site.

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chris Jackson&#x27;s Site",
+    "description": "",
+    "home_page_url": "https://christopherjacks.github.io/christopherjacks",
+    "feed_url": "https://christopherjacks.github.io/christopherjacks/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chris Jackson"
+    },
+    "items": [
+    ]
+}
