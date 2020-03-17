@@ -14,7 +14,7 @@
             "url": "https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html",
             "title": "Travel Insurance Reviews Product Brief",
             "summary": "At InsureMyTrip I ptiched and led a project to add customer reviews&hellip;",
-            "content_html": "<p>At InsureMyTrip I ptiched and led a project to add customer reviews to our website. To make sure the project team and management were heading in the same direction, I wrote the following product brief, reviewed it with stakeholders, and started our conversations in the kickoff meeting from it.</p>\n<figure class=\"post__image post__image\" ><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png\" alt=\"The Travel Insurance Reviews product brief. Click to view it as a PDF file.\" width=\"1275\" height=\"1650\">\n<figcaption >Click to view or download the brief as a PDF file.</figcaption>\n</figure>\n<p> </p>",
+            "content_html": "<p>At InsureMyTrip I ptiched and led a project to add customer reviews to our website. To make sure the project team and management were heading in the same direction, I wrote the following product brief, reviewed it with stakeholders, and started our conversations in the kickoff meeting from it.</p>\n<figure class=\"post__image post__image\" ><a href=\"travel-insurance-reviews-product-brief.pdf\" title=\"Product brief in PDF format.\"><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png\" alt=\"The Travel Insurance Reviews product brief. Click to view it as a PDF file.\" width=\"1275\" height=\"1650\"></a>\n<figcaption ><a href=\"travel-insurance-reviews-product-brief.pdf\" title=\"Click to view or download the brief as a PDF file.\">Click to view or download the brief as a PDF file.</a></figcaption>\n</figure>\n<p> </p>",
             "author": {
                 "name": "Chris Jackson"
             },
@@ -23,7 +23,7 @@
                    "brief"
             ],
             "date_published": "2020-03-17T08:10:57-04:00",
-            "date_modified": "2020-03-17T08:16:46-04:00"
+            "date_modified": "2020-03-17T11:54:46-04:00"
         },
         {
             "id": "https://christopherjacks.github.io/christopherjacks/pitching-a-site-overhaul.html",
@@ -46,14 +46,14 @@
             "url": "https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html",
             "title": "This is MIT on Design Thinking ",
             "summary": "Shortly after joining MIT's IS&amp;T department to lead their UX team, I&hellip;",
-            "content_html": "<div class=\"Module-module-35g root\">\n<div>\n<div class=\"project-module js-project-module--text module project-module-text text align-left module-content-text\">\n<div class=\"main-text\">\n<div>Shortly after joining MIT's IS&amp;T department to lead their UX team, I worked with the team to define our discovery process. Because UX is a new group at IS&amp;T, it was important to show how we worked and the value we added to projects.</div>\n<div> </div>\n<div>The current process was that the project managers asked what the departments wanted and we built that. The head of IS&amp;T explained to me that it wasn't working.</div>\n<div> </div>\n<div>The process we defined looked like this:</div>\n<div> </div>\n<div>[insert graphic]</div>\n<div> </div>\n<div><a href=\"https://www.behance.net/Muzi_Meng\" title=\"Muzi Meng's portfolio\">Muzi Meng</a>, a wondeerful designer on our team, did the graphic design for the above.</div>\n<div> </div>\n<div>Here's a presentation I put together for a poster session.</div>\n</div>\n</div>\n</div>\n</div>",
+            "content_html": "<div class=\"Module-module-35g root\">\n<div class=\"project-module js-project-module--text module project-module-text text align-left module-content-text\">\n<div class=\"main-text\">\n<div>Shortly after joining MIT's IS&amp;T department to lead their UX team, I worked with the team to define our discovery process. Because UX is a new group at IS&amp;T, it was important to show how we worked and the value we added to projects.</div>\n<div> </div>\n<div>The current process was that the project managers asked what the departments wanted and we built that. The head of IS&amp;T explained to me that it wasn't working.</div>\n<div> </div>\n<div>The process we defined looked like this:</div>\n<div> </div>\n<figure class=\"post__image post__image\" ><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png\" alt=\"The Design Discovery process we definied for MIT's IT department.\" width=\"720\" height=\"405\">\n<figcaption >The design discovery process we defined and used for the IT department at MIT.</figcaption>\n</figure>\n<div><a href=\"https://www.behance.net/Muzi_Meng\" title=\"Muzi Meng's portfolio\">Muzi Meng</a>, a wonderful designer on our team, did the graphic design for the above.</div>\n<div> </div>\n<div>Here's a short presentation I put together for a poster session to explain how the precess worked to departments across MIT:</div>\n<figure class=\"post__image post__image\" ><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/4/mit-design-discovery-presentation-p1.png.001.png\" alt=\"First slide of the Design Discovery presentation.\" width=\"960\" height=\"540\">\n<figcaption >The Design Discovery presentation (click to view the PDF version).</figcaption>\n</figure>\n<div> </div>\n</div>\n</div>\n</div>",
             "author": {
                 "name": "Chris Jackson"
             },
             "tags": [
             ],
             "date_published": "2020-03-15T19:45:36-04:00",
-            "date_modified": "2020-03-15T19:45:36-04:00"
+            "date_modified": "2020-03-17T17:26:25-04:00"
         },
         {
             "id": "https://christopherjacks.github.io/christopherjacks/quantitative-analysis-for-brown-university.html",
