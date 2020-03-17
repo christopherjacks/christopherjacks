@@ -3,12 +3,38 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-03-16T05:09:10-04:00</updated>
+    <updated>2020-03-17T08:16:55-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
     <id>https://christopherjacks.github.io/christopherjacks</id>
 
+    <entry>
+        <title>Travel Insurance Reviews Product Brief</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html</id>
+            <category term="product-management"/>
+            <category term="brief"/>
+
+        <updated>2020-03-17T08:16:46-04:00</updated>
+            <summary>
+                <![CDATA[
+                    At InsureMyTrip I ptiched and led a project to add customer reviews&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>At InsureMyTrip I ptiched and led a project to add customer reviews to our website. To make sure the project team and management were heading in the same direction, I wrote the following product brief, reviewed it with stakeholders, and started our conversations in the kickoff meeting from it.</p>
+<figure class="post__image post__image" ><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png" alt="The Travel Insurance Reviews product brief. Click to view it as a PDF file." width="1275" height="1650">
+<figcaption >Click to view or download the brief as a PDF file.</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pitching a Site Overhaul</title>
         <author>
