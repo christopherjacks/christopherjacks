@@ -3,7 +3,7 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-03-18T07:16:16-04:00</updated>
+    <updated>2020-03-18T07:44:50-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
@@ -185,7 +185,7 @@
             <category term="design-thinking"/>
             <category term="design-ops"/>
 
-        <updated>2020-03-18T05:46:25-04:00</updated>
+        <updated>2020-03-18T07:25:40-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png" alt="" />
@@ -200,7 +200,7 @@
 <div class="main-text">
 <div>Shortly after joining MIT's IS&amp;T department to lead their UX team, I worked with the team to define our discovery process. Because UX was a new group at IS&amp;T, it was important to evangelize and show how we worked and the value we added to projects.</div>
 <div> </div>
-<div>The current process was, mostly, that the project managers asked what the departments wanted and we built that. The head of IS&amp;T explained to me that it wasn't working.</div>
+<div>The current process was, mostly, that the project managers asked what the departments wanted and we built that. The head of IS&amp;T explained to me that it wasn't working. I wasn't surprised.</div>
 <div> </div>
 <div>The process we defined looked like this:</div>
 <figure class="post__image undefined" ><a href="mit-design-discovery-presentation.pdf"><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png" alt="The Design Discovery process we definied for MIT's IT department." width="960" height="540"></a>
@@ -229,7 +229,7 @@
             <category term="product-management"/>
             <category term="mobile"/>
 
-        <updated>2020-03-18T05:46:10-04:00</updated>
+        <updated>2020-03-18T07:34:25-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/17/robert-penaloza-I-W1lG1kVgA-unsplash.jpg" alt="" />
@@ -259,7 +259,7 @@
 <div class="align-left"> </div>
 <div class="align-left">I set another lofty goal for the project not just to produce a mobile app but to become someday the mobile backbone for travel insurance, for other insurance companies and for other travel apps. My thinking about the backbone was influenced by many sources, including FastCo's "<a href="http://www.fastcompany.com/3031237/facebook-everywhere" target="_blank" rel="nofollow noopener noreferrer">Facebook's Plan to Own your Phone</a>," which included this quote: "Whenever and wherever you are thirsty, Coca-Cola will be there for you. Zuck wants Facebook to be just like that."</div>
 <div class="align-left"> </div>
-<div class="align-left">We worked hard thinking through our ambitious objectives, our customers, all their use cases, and how to keep the experience of a complex system simple. We filled up every whiteboard we could fit in the room with project principles, quotes for inspirations, lists and lists of ideas, sketchy wireframes, requirements, and the like. I believed that that a different mobile app from InsureMyTrip could change travel insurance and help more people have better trips.</div>
+<div class="align-left">We worked hard thinking through our ambitious objectives, our customers, all their use cases, and how to keep the experience of a complex system simple. We filled up every whiteboard we could fit in the room with project principles, quotes for inspirations, lists and lists of ideas, sketchy wireframes, requirements, and the like. I believed that a different mobile app from InsureMyTrip could change travel insurance and help more people have better trips.</div>
 </div>
 </div>
 </div>
@@ -278,7 +278,7 @@
             <category term="responsive"/>
             <category term="mobile"/>
 
-        <updated>2020-03-18T05:45:53-04:00</updated>
+        <updated>2020-03-18T07:31:02-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/9/imt-homepage.jpg" alt="" />
@@ -288,11 +288,11 @@
         <content type="html">
             <![CDATA[
                     <img src="https://christopherjacks.github.io/christopherjacks/media/posts/9/imt-homepage.jpg" alt="" />
-                <div>One of the must-have requirements of the website redesign project for InsureMyTrip was to make the website work well on tablets and smart phones. Our traffic from mobile devices was around 15% and rising quickly. We decided on responsive web design to meet this demand and selected the Bootstrap framework for our responsive design solution. Hristo Kanchev, a lead designer on the project, contributed greatly to our responsive design efforts.</div>
+                <div>One of the must-have requirements of the website redesign project for InsureMyTrip was to make the website work well on tablets and phones. Our traffic from mobile devices was around 15% and rising quickly. We used responsive web design to meet this demand and selected the Bootstrap framework. <a href="https://kanchev.com/" title="Hristo Kanchev's portfolio site">Hristo Kanchev</a>, a lead designer on the project, contributed greatly to our responsive design efforts.</div>
 <div> </div>
 <div>We gathered mobile devices for on-the-fly testing but also used third-party services to ensure testing across a full-range of mobile platforms and manufacturers. We also built conversion funnels in Google Analytics specifically for tablets and phones. And we tested site performance on mobile devices. After all, performance is the first experience in any user experience.</div>
 <div> </div>
-<div>Looking at our current mobile device statistics, we decided on two breakpoints for responsive design, one for tablets and one for smart phones. Additional design considerations included mobile design best practices such as ensuring that page elements stacked usefully on smaller screens and eliminating elements such as large-sized images that would hinder performance on cellular networks. We started planning a different quote and buy process for smart phones, but realized quickly we would not be able to get that done during the project timeline.</div>
+<div>Looking at our current mobile device statistics, we decided on two breakpoints for responsive design, one for tablets and one for phones. Additional design considerations included mobile design best practices such as ensuring that page elements stacked usefully on smaller screens and eliminating elements such as large-sized images that might hinder performance on cellular networks. We started planning a different quote and buy process for phones, but realized quickly we would not be able to get that done during the project timeline.</div>
 <div> </div>
 <div>Here is the new homepage on a desktop screen:</div>
 <div><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/9/ba71bab4d6e92824f244245c_rw_1920.jpg" alt="InsureMyTrip homepage" width="1400" height="1426"></div>
@@ -315,11 +315,11 @@
         <id>https://christopherjacks.github.io/christopherjacks/pitching-a-site-overhaul.html</id>
             <category term="product-management"/>
 
-        <updated>2020-03-18T05:45:21-04:00</updated>
+        <updated>2020-03-18T07:44:18-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/5/1889_Tower_Building_NYC_Museum_of_the_City_of_NY_215_ft_wide.jpg" alt="" />
-                    At InsureMyTrip, I asked for the chance to redo our high-traffic, e-commerce&hellip;
+                    At InsureMyTrip, I asked for the chance to rethink and redesign our high-traffic,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -330,7 +330,7 @@
 <div>
 <div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
 <div class="main-text">
-<div class="align-left">At InsureMyTrip, I asked for the chance to redo our high-traffic, e-commerce website. The website was outdated, not easy to update even for simple content changes, and lacked useful content and features like site search. Because it was ambitious, we called the project Super Redo.</div>
+<div class="align-left">At InsureMyTrip, I asked for the chance to rethink and redesign our high-traffic, e-commerce website. The website was outdated, not easy to update even for simple content changes, and lacked useful content and features like site search. Because it was ambitious, we called the project Super Redo.</div>
 <div class="align-left"> </div>
 <div class="align-left">The images below are from the presentation I made to senior management to pitch the project. I wanted the slides to be simple, with strong images to poke people attentive and little text so they would listen to my story rather than read the slides. I'll try to recreate a little of what I said back then beneath each slide.</div>
 </div>
@@ -414,7 +414,7 @@
 <div class="project-module caption-container align-undefined" >
 <div class="module-caption caption caption-text-wrap" >
 <div class="sub-title"> </div>
-<div class="sub-title">This project had several customers: the people who purchased travel insurance on our website, the companies who sold travel insurance through our website, and all the people in our company who used and supported the website. I wanted to make sure that what we built would improve things for the two latter groups.</div>
+<div class="sub-title">This project had several customers: the people who purchased travel insurance on our website, the companies who sold travel insurance through our website, and all the people in our company who used and supported the website. I wanted to make sure that what we built would improve things for all three groups.</div>
 </div>
 </div>
 </div>
@@ -430,7 +430,7 @@
 <div class="project-module caption-container align-undefined" >
 <div class="module-caption caption caption-text-wrap" >
 <div class="sub-title"> </div>
-<div class="sub-title">WordPress is a relatively simple website administrative tool. It allows people to publish and do things, like we wanted our website to be for our internal users. It's also the most prolific publishing platform on the web, used by almost 25% of all websites. If we provided more value to our business partners, we could become that entrenched in the travel insurance web.</div>
+<div class="sub-title">WordPress is a relatively simple website administrative tool. It allows people to publish and do things, like we wanted our website to be for our internal users. It also was the most prolific publishing platform on the web, used by almost 25% of all websites. If we provided more value to our business partners, we could become that entrenched in the travel insurance web.</div>
 </div>
 </div>
 </div>
@@ -478,7 +478,7 @@
 <div class="project-module caption-container align-undefined" >
 <div class="module-caption caption caption-text-wrap" >
 <div class="sub-title"> </div>
-<div class="sub-title">I've never surfed but my impression that there's a focus that comes from a person, a board, and a wave. The Otter website is one of the cleanest and most focused sites I've seen, which speaks to its audience. Enchants them (a bit) like the water.</div>
+<div class="sub-title">I've never surfed but my impression that there's a focus that comes from a person, a board, and a wave. The Otter Surfboards website is one of the cleanest and most focused sites I've seen, which speaks to its audience. The site enchants them (a bit) like the water.</div>
 <div class="sub-title"> </div>
 <div class="sub-title">This project was about so much of the website, not just the top layer. But, damnit, we were going to make that top layer speak to our audience and make them want to spend time on the site. We were making a siren. Without all the rocks and the crashing, of course.</div>
 </div>
@@ -519,7 +519,7 @@
 <div class="sub-title"> </div>
 <div class="sub-title">How do you know if something's great? You measure it, of course. I had a goal of implementing a solid metrics program for the new website. During the project we updated from Urchin to Google Analytics and implemented ClickTale to watch our customers' behavior on the site.</div>
 <div class="sub-title"> </div>
-<div class="sub-title">We built an A/B/Multivariate teasting framework into the site's new architecture. And we didn't just add site search, we added search with logging (obvious, I know) to learn from what people were searching for.</div>
+<div class="sub-title">We built an A/B/Multivariate testing framework into the site's new architecture. And we didn't just add site search, we added search with logging (obvious, I know) to learn from the words and phrases people searching for.</div>
 <div class="sub-title"> </div>
 <div class="sub-title">With better data comes better decisions. We didn't just want to improve the site, we wanted to improve how we improved the site after the project was done.</div>
 </div>
@@ -536,7 +536,7 @@
 <div class="project-module caption-container align-undefined" >
 <div class="module-caption caption caption-text-wrap" >
 <div class="sub-title"> </div>
-<div class="sub-title">It looks a little funny to be talking about appliances in a proposal about an insurance website. I believed we could find a better way to help people find the right travel insurance for their trips by building a smarter, interactive solution. The above screenshot came from a website that did just that, for appliances.</div>
+<div class="sub-title">It looks a little funny to be talking about appliances in a proposal about an insurance website. I believed we could find a better way to help people find the right travel insurance for their trips by building a smarter, interactive solution. The above screenshot came from a website that did just that, for appliances: It helped you find the right part.</div>
 <div class="sub-title"> </div>
 <div class="sub-title">I can't go into the details of what I proposed for a travel insurance "assistive engine," because that information is InsureMyTrip's information.</div>
 </div>
@@ -615,7 +615,7 @@
 <div class="sub-title"> </div>
 <div class="sub-title">The actual project timeline, of course, looked nothing like this. And it went for 6 quarters, not 4. But considering we were a team of only 3 for the first 3 quarters, I consider the actual timeline a great accomplishment.</div>
 <div class="sub-title"> </div>
-<div class="sub-title">I included this slide to let the executives know that we needed project planning.</div>
+<div class="sub-title">I included the above slide to let the executives know that we needed project planning.</div>
 </div>
 </div>
 </div>
@@ -629,9 +629,9 @@
 <div class="sub-title"> </div>
 <div class="sub-title">I ended the presentation with a new version of our logo, created by <a href="https://www.behance.net/xpucmo" target="_blank" rel="nofollow noopener noreferrer">Hristo Kanchev</a>. It wasn't the final new logo. Hristo came up with something even better.</div>
 <div class="sub-title"> </div>
-<div class="sub-title">From the old logo on the first slide to a new logo, from the old website to the new website, we were reinventing things. I believe that is what good design and good work should be.</div>
+<div class="sub-title">From the old logo on the first slide to a new logo, from the old website to the new website, we were reinventing things. I believe that is what good design and good work should do.</div>
 <div class="sub-title"> </div>
-<div class="sub-title">The new <a href="http://www.insuremytrip.com" target="_blank" rel="nofollow noopener noreferrer">InsureMyTrip website</a> launched fully in November, 2013 and resulted in a 15% increase in sales conversions (among other metric improvements). It's been awhile since I've been involved with the website or with InsureMyTrip. I'm not sure if it was the greatest website, but that's what we aimed for.</div>
+<div class="sub-title">The new <a href="http://www.insuremytrip.com" target="_blank" rel="nofollow noopener noreferrer">InsureMyTrip website</a> launched fully in November, 2013 and resulted in a 15% increase in sales conversions (among other metric improvements). That felt pretty great.</div>
 </div>
 </div>
             ]]>
