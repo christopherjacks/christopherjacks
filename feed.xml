@@ -3,7 +3,7 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-03-18T04:42:37-04:00</updated>
+    <updated>2020-03-18T06:12:06-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
@@ -16,11 +16,10 @@
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/mobile-first-insurance-quotes.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/mobile-first-insurance-quotes.html</id>
-            <category term="wireframes"/>
             <category term="responsive"/>
             <category term="mobile"/>
 
-        <updated>2020-03-18T03:55:11-04:00</updated>
+        <updated>2020-03-18T06:11:51-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-user-flow-thumbnail.png" alt="" />
@@ -55,11 +54,175 @@
 <figure class="post__image post__image" ><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/Screen-Shot-2020-03-18-at-02.35.59.png" alt="Citizenship step of the quote process" width="360" height="1600">
 <figcaption >Put your caption here</figcaption>
 </figure>
-<p>Alyson Desmarais has been taking each mobile-first screen and designing it across the breakpoints:</p>
+<p><a href="http://alysondesmarais.com/" title="Alyson Deesmarais's portfolio site">Alyson Desmarais</a> has been taking each mobile-first screen and designing it across the breakpoints:</p>
 <p><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-responsive-1.png" alt="The quote process on large screens" width="747" height="464"></p>
 <p><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-responsive-2.png" alt="The quote process on medium screens" width="534" height="464"> </p>
 <p><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-responsive-3.png" alt="The quote process on small screens" width="351" height="308"></p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Standing up a Design System</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html</id>
+            <category term="design-ops"/>
+
+        <updated>2020-03-18T05:47:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System Table of Contents" />
+                    At InsureMyTrip design documentation was stored mainly in individual documents in Google&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System Table of Contents" />
+                <p>At InsureMyTrip design documentation was stored mainly in individual documents in Google docs. They weren't easily found and were updated rarely. The UX team wanted to create a living definition of the styles and components that would increase the collaboration between designers and developers; a.k.a., a design system.</p>
+<p>We looked at various design system tools, from Invision's <a href="https://www.invisionapp.com/design-system-manager" title="Invision's Design System Manager">Design System Manager</a> to our own instranet (<a href="https://www.atlassian.com/software/confluence" title="Atlassian's Confluence software">Confluence</a>) to open-source projects like <a href="https://storybook.js.org/" title="Storybook tool for building UI components">Storybook</a>. While we would have liked the polish of Design System Manager, we wanted to work more collaboratively with developers. We weren't able to implement Storybook just yet, so we settled on developing the system in GitLab using Markdown. We plan to use a tool like Storybook eventually.</p>
+<p>We wanted to structure the design system logically, around component-based development. We modeled the design system after Brad Frost's <a href="https://bradfrost.com/blog/post/atomic-web-design/" title="Brad Frost's writing on Atomic Design">Atomic Design methodology</a>. He and Dan Mall spoke at the <a href="https://artifactconf.com/" title="Artifact Conference website">Artifact Conference</a> we attended, and were inspired by Dan when he said (something like), "A design system can be just two components." That gave us some courage after we had spent hours looking at all the big and fancy designs systems.</p>
+<p><a href="http://alysondesmarais.com/" title="Alyson Desmarais's portfolio site">Alyson Desmarais</a> was instrumental in building our design system, writing specs and digging deep into the accessibility standards (WCAG Level AA) for each component. She's amazing.</p>
+<p>Here are some screenshots from the GitLab repository:</p>
+<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System table of contents" width="1166" height="1090"></p>
+<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Principles-Principles-md-master-Designers-design-system.png" alt="Design System principles" width="1166" height="1328"></p>
+<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Components-SlideoutPanel-md-master-Designers-design-system1.png" alt="Design System slide-out component" width="1166" height="1915"></p>
+<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Components-Buttons-Buttons-md-master-Designers-design-system.png" alt="Design System buttons" width="1166" height="2406"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Design Principles</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/design-principles.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/design-principles.html</id>
+            <category term="design-ops"/>
+
+        <updated>2020-03-18T06:10:22-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/14/design-systems-atoms.jpg" alt="" />
+                    If you have rules, you can make only the decisions for problems&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/14/design-systems-atoms.jpg" alt="" />
+                <p class="align-left">If you have rules, you can make only the decisions for problems that fitt the rules. With principles, you cna make any decisions. It's why a system like Agile is so flexible; there are no rules, just the principles outlined in the <a href="https://agilemanifesto.org/" title="The Agile Manifesto website">manifesto</a>.</p>
+<p class="align-left">I've had various sets of design principles through the years, changing them as technology and I have evolved. Here's my latest version, which I defined for the InsureMyTrip Design System:</p>
+<blockquote>
+<h1 id="mcetoc_1e3m1s8o10" class="align-left" dir="auto" >Principles</h1>
+<p class="align-left" dir="auto" >These are the principles from which we make design decisions.</p>
+<h2 id="mcetoc_1e3m1s8o21" class="align-left" dir="auto" ><a id="user-content-be-ethical" class="anchor" href="#be-ethical" aria-hidden="true"></a>Be ethical</h2>
+<ul class="align-left" dir="auto" >
+<li >Be honest. Design honest and clear solutions.</li>
+</ul>
+<h2 id="mcetoc_1e3m1s8o22" class="align-left" dir="auto" ><a id="user-content-get-close" class="anchor" href="#get-close" aria-hidden="true"></a>Get close</h2>
+<ul class="align-left" dir="auto" >
+<li >Listen to and watch users regularly.</li>
+<li >Ask Why often.</li>
+<li >Involve code early. Talk with developers.</li>
+</ul>
+<h2 id="mcetoc_1e3m1s8o23" class="align-left" dir="auto" ><a id="user-content-think-big" class="anchor" href="#think-big" aria-hidden="true"></a>Think big</h2>
+<ul class="align-left" dir="auto" >
+<li >Design is how it works.</li>
+<li >Focus on objectives. Set target metrics.</li>
+<li >Design systems not pages.</li>
+</ul>
+<h2 id="mcetoc_1e3m1s8o24" class="align-left" dir="auto" ><a id="user-content-verify" class="anchor" href="#verify" aria-hidden="true"></a>Verify</h2>
+<ul class="align-left" dir="auto" >
+<li >Define and test the problem. Design and test the solution.</li>
+<li >Design from research data but not exclusively.</li>
+<li >Design with real content and data.</li>
+<li >Measure the prototype, the beta, and the release.</li>
+</ul>
+<h2 id="mcetoc_1e3m1s8o25" class="align-left" dir="auto" ><a id="user-content-keep-it-simple" class="anchor" href="#keep-it-simple" aria-hidden="true"></a>Keep it simple</h2>
+<ul class="align-left" dir="auto" >
+<li >Include only what's essential.</li>
+<li >Don't make them think.</li>
+</ul>
+<h2 id="mcetoc_1e3m1s8o26" class="align-left" dir="auto" ><a id="user-content-be-polite" class="anchor" href="#be-polite" aria-hidden="true"></a>Be polite</h2>
+<ul dir="auto" >
+<li class="align-left" >Products should be considerate.</li>
+<li class="align-left" >Make it accessible.</li>
+<li class="align-left" >Finish the last 5%.</li>
+</ul>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Design in Scrum</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/design-in-scrum.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/design-in-scrum.html</id>
+            <category term="design-ops"/>
+
+        <updated>2020-03-18T05:46:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/7/design-process-thumbnail.png" alt="" />
+                    When I rejoined InsureMyTrip, we didn't have a good cadence for including UX&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/7/design-process-thumbnail.png" alt="" />
+                <p>When I rejoined InsureMyTrip, we didn't have a good cadence for including UX in their Scrum flow. I worked with the scrum master and product owner to define the process, reviewed it with stakeholders and the development teams, and got it going.</p>
+<p>A lot has been written about incorporating design tasks in Scrum. We decided on a parallel process with a number of checkins, including <a href="https://42floors.com/blog/startups/thirty-percent-feedback" title="A blog post about getting feedback early in a process.">30/60/90% reviews</a>. We managed our design tasks in a separate workflow, because they had different gates than a typical 2-week sprint. We also made sure that our work was represented in the teams' workflows, to increase transparency.</p>
+<p>We designed this workflow for non-project tickets, for maintenance work, new features, and a/b tests we ran on the current site. For a long project, we would modify the flow to fit how the team worked, and most likely do more concurrent design.</p>
+<p>Here is the workflow:</p>
+<p><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/7/imt-ux-design-process.png" alt="A workflow diagram for our design process in Scrum." width="600" height="4172"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is MIT on Design Thinking </title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html</id>
+            <category term="design-thinking"/>
+            <category term="design-ops"/>
+
+        <updated>2020-03-18T05:46:25-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png" alt="" />
+                    Shortly after joining MIT's IS&amp;T department to lead their UX team, I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png" alt="" />
+                <div class="Module-module-35g root">
+<div class="project-module js-project-module--text module project-module-text text align-left module-content-text">
+<div class="main-text">
+<div>Shortly after joining MIT's IS&amp;T department to lead their UX team, I worked with the team to define our discovery process. Because UX was a new group at IS&amp;T, it was important to evangelize and show how we worked and the value we added to projects.</div>
+<div> </div>
+<div>The current process was, mostly, that the project managers asked what the departments wanted and we built that. The head of IS&amp;T explained to me that it wasn't working.</div>
+<div> </div>
+<div>The process we defined looked like this:</div>
+<figure class="post__image undefined" ><a href="mit-design-discovery-presentation.pdf"><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png" alt="The Design Discovery process we definied for MIT's IT department." width="960" height="540"></a>
+<figcaption >The design discovery process we defined and used for the IT department at MIT.</figcaption>
+</figure>
+<div><a href="https://www.behance.net/Muzi_Meng" title="Muzi Meng's portfolio">Muzi Meng</a>, a wonderful designer on our team, did the graphic design for the above image.</div>
+<div> </div>
+<div>Here's a short presentation I put together for a poster session to explain to departments across MIT how we used design thinking:</div>
+<figure class="post__image post__image" ><a href="mit-design-discovery-presentation.pdf"><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/4/mit-design-discovery-presentation-p1.png.001.png" alt="First slide of the Design Discovery presentation." width="960" height="540"></a>
+<figcaption ><a href="mit-design-discovery-presentation.pdf">The Design Discovery presentation (click to view the PDF version).</a></figcaption>
+</figure>
+<div> </div>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
@@ -73,11 +236,11 @@
             <category term="product-management"/>
             <category term="mobile"/>
 
-        <updated>2020-03-18T02:22:50-04:00</updated>
+        <updated>2020-03-18T05:46:10-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/17/robert-penaloza-I-W1lG1kVgA-unsplash.jpg" alt="" />
-                    Note: This description is just a description, because I left before the&hellip;
+                    Note: This description is just a description, because I left InsureMyTrip before&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -87,7 +250,7 @@
 <div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
 <div class="main-text">
 <div class="sub-title">
-<pre class="align-left"><code>Note: This description is just a description, because I left before the app was built. What was built was something different and didn't do well and, for business reasons, was pulled from the market.</code></pre>
+<pre class="align-left"><code>Note: This description is just a description, because I left InsureMyTrip before the app was built. What was built was something different and didn't do well and, for business reasons, was pulled from the market.</code></pre>
 <div class="align-left"> </div>
 <div class="align-left">Sometime after completing the InsureMyTrip website redesign project and handing the new website off to another product manager, I was tasked with creating InsureMyTrip's first mobile application. Like the website redesign project, I envisioned putting together a great team, building a great product, and then passing that product and team off to someone else to continue evolving our mobile solutions. I called the project Mobility rather than Mobile because I wanted the team and the organization to never forget that the app was going to be used in mobile moments that happened everywhere.</div>
 <div class="align-left"> </div>
@@ -112,632 +275,17 @@
         </content>
     </entry>
     <entry>
-        <title>A Tribute to Craft</title>
-        <author>
-            <name>Chris Jackson</name>
-        </author>
-        <link href="https://christopherjacks.github.io/christopherjacks/a-tribute-to-craft.html"/>
-        <id>https://christopherjacks.github.io/christopherjacks/a-tribute-to-craft.html</id>
-
-        <updated>2020-03-18T02:07:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/16/Shinya-Kimura.jpg" alt="" />
-                    I've collected many things for inspiration. One of my favorites is this short&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/16/Shinya-Kimura.jpg" alt="" />
-                <div class="sub-title">I've collected many things for inspiration. One of my favorites is this short (under 3 minutes) documentary about <a href="http://en.wikipedia.org/wiki/Shinya_Kimura" target="_blank" rel="nofollow noopener noreferrer">Shinya Kimura</a>, a custom motorcycle maker from Japan. It's been a while since I had a motorcycle (a <a href="https://www.motorcycleclassics.com/classic-german-motorcycles/ten-days-1975-bmw-r90-6" title="Some info about a classic bike">1975 BMW R90/6</a>), but I still love beautiful machines.</div>
-<div class="sub-title"> </div>
-<div class="sub-title">This guy could be building custom staplers, I wouldn't care. He's all about craft.</div>
-<div class="sub-title"> </div>
-<div class="sub-title">It's all about the craft.</div>
-<p><iframe width="640" height="360" src="https://player.vimeo.com/video/13159991?color=252b2b&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></p>
-<p><a href="https://vimeo.com/13159991">Shinya Kimura - Chabott Engineering</a> from <a href="https://vimeo.com/user4209232">Henrik Hansen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ideas for an Ideas Lab</title>
-        <author>
-            <name>Chris Jackson</name>
-        </author>
-        <link href="https://christopherjacks.github.io/christopherjacks/ideas-for-an-ideas-lab.html"/>
-        <id>https://christopherjacks.github.io/christopherjacks/ideas-for-an-ideas-lab.html</id>
-
-        <updated>2020-03-18T01:52:35-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/15/go-ideas-logo.png" alt="" />
-                    I was knighted at InsureMyTrip to lead our new innovation lab. Before&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/15/go-ideas-logo.png" alt="" />
-                <div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div>
-<div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
-<div class="main-text">
-<div class="sub-title align-left">I was knighted at InsureMyTrip to lead our new innovation lab. Before starting that, I pitched a quest to redo our website, which took me to another land for 18 months. But I never stopped thinking about what we were going to do with the innovation lab.</div>
-<div class="sub-title align-left"> </div>
-<div class="sub-title align-left">What follows are some screen captures of ideas and notes for what the lab could become. I've added some additional thoughts, these few years later, beneath the screen captures.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator align-left"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="align-left"> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2 align-left" ><img class="ImageElement-image-2K6" style="border: 1px solid gray;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fde9be24489327.563350d5e05ce.png" sizes="(max-width: 950px) 100vw, 950px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fde9be24489327.563350d5e05ce.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fde9be24489327.563350d5e05ce.png 950w" alt=""></div>
-</div>
-<div class="project-module caption-container align-undefined" >
-<div class="module-caption caption caption-text-wrap" >
-<div class="sub-title">"Ideas to products." The input was an idea. The output was a product. When working with an idea, never forget that the goal is a product.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" style="border: 1px solid gray;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/baeea224489327.563350d5cb75d.png" sizes="(max-width: 977px) 100vw, 977px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/baeea224489327.563350d5cb75d.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/baeea224489327.563350d5cb75d.png 977w" alt=""></div>
-</div>
-<div class="project-module caption-container align-undefined" >
-<div class="module-caption caption caption-text-wrap" >
-<div class="sub-title">In graduate school I read many manifestos for art movements such as Futurism. To make significant changes in art or the corporate world, you need to make bold statements that set clear directions. I wanted to make sure that anyone working in or with the lab understood our principles.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" style="border: 1px solid gray;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/711d8624489327.563350d5da90e.png" sizes="(max-width: 947px) 100vw, 947px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/711d8624489327.563350d5da90e.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/711d8624489327.563350d5da90e.png 947w" alt=""></div>
-</div>
-<div class="project-module caption-container align-undefined" >
-<div class="module-caption caption caption-text-wrap" >
-<div class="sub-title">The lab was meant to operate differently from the rest of the organization, to think differently. The lab also was meant to serve a consultant group for any other group in the organization. I took some inspiration for these dual roles for how a pure research group within a university could serve outside business groups.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" style="border: 1px solid gray;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a791c624489327.563350d5d2275.png" sizes="(max-width: 966px) 100vw, 966px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a791c624489327.563350d5d2275.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a791c624489327.563350d5d2275.png 966w" alt=""></div>
-</div>
-<div class="project-module caption-container align-undefined" >
-<div class="module-caption caption caption-text-wrap" >
-<div class="sub-title">Some additional statements about purpose and the work we were setting out to do. The last statement is philosophical. Philosophy is the study of fundamental problems. Every new idea has fundamental problems. You have to think deeply (the vertical), as well as outwards (the horizontal) and across time (the linear) to solve those problems.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" style="border: 1px solid gray;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/19a10a24489327.563350d5c5f74.png" sizes="(max-width: 949px) 100vw, 949px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/19a10a24489327.563350d5c5f74.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/19a10a24489327.563350d5c5f74.png 949w" alt=""></div>
-</div>
-<div class="project-module caption-container align-undefined" >
-<div class="module-caption caption caption-text-wrap" >
-<div class="sub-title">Short version: In the early stages, ignore constraints so you don't limit what could be.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" style="border: 1px solid gray;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3343ea24489327.563350d60bb9a.png" sizes="(max-width: 956px) 100vw, 956px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3343ea24489327.563350d60bb9a.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3343ea24489327.563350d60bb9a.png 956w" alt=""></div>
-</div>
-<div class="project-module caption-container align-undefined" >
-<div class="module-caption caption caption-text-wrap" >
-<div class="sub-title">Naming something is one of the most important excercises in branding. Branding is the cumulative experience a consumer has of a business or a service. The brand for the ideas lab had to be clear and expressive. I liked "Go Ideas" best because it stated our medium, ideas, while also suggesting action. We acted on ideas to make products.</div>
-<div class="sub-title"> </div>
-<div class="sub-title"> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" style="border: 1px solid gray;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a88c024489327.563350d5f3232.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1a88c024489327.563350d5f3232.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a88c024489327.563350d5f3232.png 1200w" alt=""></div>
-</div>
-<div class="project-module caption-container align-undefined" >
-<div class="module-caption caption caption-text-wrap" >
-<div class="sub-title">Some more branding work. Most of the above are other people's work, for inspiration. A few are my attempts at logo design. I am not a logo designer.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" style="border: 1px solid gray;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/57421924489327.563350d5e7661.png" sizes="(max-width: 951px) 100vw, 951px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/57421924489327.563350d5e7661.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/57421924489327.563350d5e7661.png 951w" alt=""></div>
-</div>
-<div class="project-module caption-container align-undefined" >
-<div class="module-caption caption caption-text-wrap" >
-<div class="sub-title">To think different we needed a different environment. We didn't need cubes or other office space limiters. I wanted it be raw, like a workshop, so you could change it to make it fit whatever you were doing, like <a href="https://en.wikipedia.org/wiki/Building_20" target="_blank" rel="nofollow noopener noreferrer" title="Wikipedia's page on Building 20">MIT's Building 20</a>.</div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Design Principles</title>
-        <author>
-            <name>Chris Jackson</name>
-        </author>
-        <link href="https://christopherjacks.github.io/christopherjacks/design-principles.html"/>
-        <id>https://christopherjacks.github.io/christopherjacks/design-principles.html</id>
-            <category term="design-ops"/>
-
-        <updated>2020-03-18T01:38:43-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/14/design-systems-atoms.jpg" alt="" />
-                    If you have rules, you can make only the decisions for problems&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/14/design-systems-atoms.jpg" alt="" />
-                <p>If you have rules, you can make only the decisions for problems that fitt the rules. With principles, you cna make any decisions. It's why a system like Agile is so flexible; there are no rules, just the principles outlined in the <a href="https://agilemanifesto.org/" title="The Agile Manifesto website">manifesto</a>.</p>
-<p>I've had various sets of design principles through the years, changing them as technology and I have evolved. Here's my latest version, which I defined for the InsureMyTrip Design System:</p>
-<blockquote>
-<h1 id="mcetoc_1e3m1s8o10" dir="auto" >Principles</h1>
-<p dir="auto" >These are the principles from which we make design decisions.</p>
-<h2 id="mcetoc_1e3m1s8o21" dir="auto" ><a id="user-content-be-ethical" class="anchor" href="#be-ethical" aria-hidden="true"></a>Be ethical</h2>
-<ul dir="auto" >
-<li >Be honest. Design honest and clear solutions.</li>
-</ul>
-<h2 id="mcetoc_1e3m1s8o22" dir="auto" ><a id="user-content-get-close" class="anchor" href="#get-close" aria-hidden="true"></a>Get close</h2>
-<ul dir="auto" >
-<li >Listen to and watch users regularly.</li>
-<li >Ask Why often.</li>
-<li >Involve code early. Talk with developers.</li>
-</ul>
-<h2 id="mcetoc_1e3m1s8o23" dir="auto" ><a id="user-content-think-big" class="anchor" href="#think-big" aria-hidden="true"></a>Think big</h2>
-<ul dir="auto" >
-<li >Design is how it works.</li>
-<li >Focus on objectives. Set target metrics.</li>
-<li >Design systems not pages.</li>
-</ul>
-<h2 id="mcetoc_1e3m1s8o24" dir="auto" ><a id="user-content-verify" class="anchor" href="#verify" aria-hidden="true"></a>Verify</h2>
-<ul dir="auto" >
-<li >Define and test the problem. Design and test the solution.</li>
-<li >Design from research data but not exclusively.</li>
-<li >Design with real content and data.</li>
-<li >Measure the prototype, the beta, and the release.</li>
-</ul>
-<h2 id="mcetoc_1e3m1s8o25" dir="auto" ><a id="user-content-keep-it-simple" class="anchor" href="#keep-it-simple" aria-hidden="true"></a>Keep it simple</h2>
-<ul dir="auto" >
-<li >Include only what's essential.</li>
-<li >Don't make them think.</li>
-</ul>
-<h2 id="mcetoc_1e3m1s8o26" dir="auto" ><a id="user-content-be-polite" class="anchor" href="#be-polite" aria-hidden="true"></a>Be polite</h2>
-<ul dir="auto" >
-<li >Products should be considerate.</li>
-<li >Make it accessible.</li>
-<li >Finish the last 5%.</li>
-</ul>
-</blockquote>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Standing up a Design System</title>
-        <author>
-            <name>Chris Jackson</name>
-        </author>
-        <link href="https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html"/>
-        <id>https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html</id>
-            <category term="design-ops"/>
-
-        <updated>2020-03-18T01:13:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System Table of Contents" />
-                    At InsureMyTrip design documentation was stored mainly in individual documents in Google&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System Table of Contents" />
-                <p>At InsureMyTrip design documentation was stored mainly in individual documents in Google docs. They weren't easily found and were updated rarely. The UX team wanted to create a living definition of the styles and components that would increase the collaboration between designers and developers; a.k.a., a design system.</p>
-<p>We looked at various design system tools, from Invision's <a href="https://www.invisionapp.com/design-system-manager" title="Invision's Design System Manager">Design System Manager</a> to our own instranet (<a href="https://www.atlassian.com/software/confluence" title="Atlassian's Confluence software">Confluence</a>) to open-source projects like <a href="https://storybook.js.org/" title="Storybook tool for building UI components">Storybook</a>. While we would have liked the polish of Design System Manager, we wanted to work more collaboratively with developers. We weren't able to implement Storybook just yet, so we settled on developing the system in GitLab using Markdown. We plan to use a tool like Storybook eventually.</p>
-<p>We wanted to structure the design system logically, around component-based development. We modeled the design system after Brad Frost's <a href="https://bradfrost.com/blog/post/atomic-web-design/" title="Brad Frost's writing on Atomic Design">Atomic Design methodology</a>. He and Dan Mall spoke at the <a href="https://artifactconf.com/" title="Artifact Conference website">Artifact Conference</a> we attended, and were inspired by Dan when he said (something like), "A design system can be just two components." That gave us some courage after we had spent hours looking at all the big and fancy designs systems.</p>
-<p><a href="http://alysondesmarais.com/" title="Alyson Desmarais's portfolio site">Alyson Desmarais</a> was instrumental in building our design system, writing specs and digging deep into the accessibility standards (WCAG Level AA) for each component. She's amazing.</p>
-<p>Here are some screenshots from the GitLab repository:</p>
-<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System table of contents" width="1166" height="1090"></p>
-<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Principles-Principles-md-master-Designers-design-system.png" alt="Design System principles" width="1166" height="1328"></p>
-<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Components-SlideoutPanel-md-master-Designers-design-system1.png" alt="Design System slide-out component" width="1166" height="1915"></p>
-<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Components-Buttons-Buttons-md-master-Designers-design-system.png" alt="Design System buttons" width="1166" height="2406"></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>My First Usability Test</title>
-        <author>
-            <name>Chris Jackson</name>
-        </author>
-        <link href="https://christopherjacks.github.io/christopherjacks/my-first-usability-test.html"/>
-        <id>https://christopherjacks.github.io/christopherjacks/my-first-usability-test.html</id>
-            <category term="usability-testing"/>
-
-        <updated>2020-03-18T00:08:31-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/12/usability-test-results.png" alt="Usability test results document." />
-                    Education Networks of America manages the internet backbone for K-12 schools throughout&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/12/usability-test-results.png" alt="Usability test results document." />
-                <div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div>
-<div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
-<div class="main-text">
-<div>Education Networks of America manages the internet backbone for K-12 schools throughout Tennessee. I worked there as a technical writer and then an interface designer. We didn't have much of a design process, so I researched methods and proposed Constantine and Lockwood's Usage-Based Design, which depended on paper prototyping and usability testing.</div>
-<div> </div>
-<div>The testing teams included both developers and designers. After participating in the usability tests, the developers were excited to learn what users really needed and to learn that before they started coding. It was my first time performing usability testing, and it was love at first observation.</div>
-<div> </div>
-<div>Education Networks of America also sold network monitoring solutions to school systems. The following test script and test results report was for the first version of an internal administrative application that allowed our sales support staff to activate and manage software licenses for our customers. </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/65d3f924512795.56335744ec346.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/65d3f924512795.56335744ec346.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ed11424512795.56335744f2825.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ed11424512795.56335744f2825.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/63344124512795.56335744b3024.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/63344124512795.56335744b3024.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/748f6624512795.56335744befba.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/748f6624512795.56335744befba.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cd187f24512795.56335744c0eb2.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cd187f24512795.56335744c0eb2.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b6677624512795.56335744c90ed.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b6677624512795.56335744c90ed.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" > </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/49a08824512795.56335744d2385.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/49a08824512795.56335744d2385.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ddccf924512795.56335744df35a.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ddccf924512795.56335744df35a.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>IA for an NGO</title>
-        <author>
-            <name>Chris Jackson</name>
-        </author>
-        <link href="https://christopherjacks.github.io/christopherjacks/ia-for-an-ngo.html"/>
-        <id>https://christopherjacks.github.io/christopherjacks/ia-for-an-ngo.html</id>
-            <category term="information-architecture"/>
-
-        <updated>2020-03-18T00:09:04-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/11/fghp-isometric-diagram.png" alt="" />
-                    The Forum for Global Health Protection came to Dynamic Diagrams to design&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/11/fghp-isometric-diagram.png" alt="" />
-                <div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div>
-<div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
-<div class="main-text">
-<div>The Forum for Global Health Protection came to Dynamic Diagrams to design its website presence. I served as the project lead, business analyst, and information architect. One challenge of the project was serving as a consultant to some very smart people with fine credentials who knew little about the world of websites. Another challenge was designing such a large and rich data set in a findable fashion so that researchers and health providers solving world health crises would never miss a needle in the haystack.</div>
-<div> </div>
-<div>I researched the client's specific area, studied similar online health databases, and interviewed stakeholders and representative end-users. The first deliverable was a report on the proposed information architecture for the website. To protect the interests of the client, I am not able to make the full report available. Here is a screenshot, including the table of contents:</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div> </div>
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7f085524445177.5633452baaf2c.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7f085524445177.5633452baaf2c.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div>
-<div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
-<div class="main-text">
-<div>The report included a beautiful isometric representation done by the project's information designer, <a href="https://www.linkedin.com/profile/view?id=37269268" target="_blank" rel="nofollow noopener noreferrer">Kim Looney</a>. My work involved defining the site's information architecture, as represented by the left-to-right sloping axis in the diagram. I also defined and described how the site's main content types could be viewed from any of the content's major facets: the threat's name (e.g., Bird Flu), the region (e.g., East Asia), or the field of study (e.g., Epidemiology). My work understanding the client's area and listening carefully for requirements, along with Kim's clear and precise visual representation, helped the client understand the possibilities for the websites and how all their information could be made findable and helpful.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div> </div>
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/bc826024445177.5633452ba1e65.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/bc826024445177.5633452ba1e65.png 600w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wireframes for the University of St. Andrews</title>
-        <author>
-            <name>Chris Jackson</name>
-        </author>
-        <link href="https://christopherjacks.github.io/christopherjacks/wireframes-for-the-university-of-st-andrews.html"/>
-        <id>https://christopherjacks.github.io/christopherjacks/wireframes-for-the-university-of-st-andrews.html</id>
-            <category term="wireframes"/>
-            <category term="information-architecture"/>
-            <category term="edu"/>
-
-        <updated>2020-03-17T23:52:29-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/10/1eb99024446107.5633455a4910b.png" alt="" />
-                    The University of St. Andrews engaged Dynamic Diagrams to design the information&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/10/1eb99024446107.5633455a4910b.png" alt="" />
-                <div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div>
-<div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
-<div class="main-text">
-<div class="sub-title">The University of St. Andrews engaged Dynamic Diagrams to design the information architecture for its new website. The project was led by <a href="https://www.linkedin.com/profile/view?id=171386" target="_blank" rel="nofollow noopener noreferrer">Macarthur McBurney</a>. I was the information architect for certain portions of the website.</div>
-<div class="sub-title"> </div>
-<div class="sub-title">One of the challenges of the project was designing the site architecture for its different audiences: students, parents, faculty, and staff. We met this challenge by making sure the main navigation was always clear, no matter where the user was. We also made sure that any piece of content a member of any audience needed was available in that audience's section of the site.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container"> </div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c361fb24446107.5633455a7333d.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c361fb24446107.5633455a7333d.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c361fb24446107.5633455a7333d.png 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/c361fb24446107.5633455a7333d.png 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/c361fb24446107.5633455a7333d.png 1650w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div>
-<div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
-<div class="main-text">
-<div class="sub-title">Here are the wireframes I contributed to this stage of the project:</div>
-</div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div> </div>
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1eb99024446107.5633455a4910b.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1eb99024446107.5633455a4910b.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1eb99024446107.5633455a4910b.png 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/1eb99024446107.5633455a4910b.png 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/1eb99024446107.5633455a4910b.png 1650w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div> </div>
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1c3aec24446107.5633455a532f3.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1c3aec24446107.5633455a532f3.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1c3aec24446107.5633455a532f3.png 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/1c3aec24446107.5633455a532f3.png 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/1c3aec24446107.5633455a532f3.png 1650w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container"> </div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/47484f24446107.5633455a5b472.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/47484f24446107.5633455a5b472.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/47484f24446107.5633455a5b472.png 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/47484f24446107.5633455a5b472.png 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/47484f24446107.5633455a5b472.png 1650w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container"> </div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f5fd5e24446107.5633455a5ef7e.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f5fd5e24446107.5633455a5ef7e.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f5fd5e24446107.5633455a5ef7e.png 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f5fd5e24446107.5633455a5ef7e.png 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/f5fd5e24446107.5633455a5ef7e.png 1650w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container"> </div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div> </div>
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5a79be24446107.5633455a624ca.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5a79be24446107.5633455a624ca.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5a79be24446107.5633455a624ca.png 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5a79be24446107.5633455a624ca.png 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a79be24446107.5633455a624ca.png 1650w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container"> </div>
-<div> </div>
-<div id="primary-project-content" class="project-styles Project-projectModules-3ax">
-<div id="project-canvas">
-<div id="project-modules">
-<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
-<div class="Module-module-35g root">
-<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
-<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
-<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dc13b524446107.5633455a6c320.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/dc13b524446107.5633455a6c320.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dc13b524446107.5633455a6c320.png 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/dc13b524446107.5633455a6c320.png 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/dc13b524446107.5633455a6c320.png 1650w" alt=""></div>
-</div>
-</div>
-</div>
-<div class="spacer module-separator"> </div>
-</div>
-<div> </div>
-</div>
-</div>
-</div>
-<div class="Project-appreciateReminderContainer-1Iq qa-bottom-appreciate-container"> </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Responsive Design for InsureMyTrip</title>
         <author>
             <name>Chris Jackson</name>
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html</id>
-            <category term="wireframes"/>
             <category term="ux-design"/>
             <category term="responsive"/>
             <category term="mobile"/>
 
-        <updated>2020-03-18T02:23:07-04:00</updated>
+        <updated>2020-03-18T05:45:53-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/9/imt-homepage.jpg" alt="" />
@@ -762,6 +310,393 @@
 <div><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/9/23c73572c20f43d60b902c78_rw_1920.jpg" alt="InsureMyTrip on tablets" width="1400" height="1369"></div>
 <div>Here is the view on phone screens:</div>
 <div><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/9/575b95e802323f8971ffce0f_rw_1920.jpg" alt="InsureMyTrip design for phones" width="1400" height="1971"></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pitching a Site Overhaul</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/pitching-a-site-overhaul.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/pitching-a-site-overhaul.html</id>
+            <category term="product-management"/>
+
+        <updated>2020-03-18T05:45:21-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/5/1889_Tower_Building_NYC_Museum_of_the_City_of_NY_215_ft_wide.jpg" alt="" />
+                    At InsureMyTrip, I asked for the chance to redo our high-traffic, e-commerce&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/5/1889_Tower_Building_NYC_Museum_of_the_City_of_NY_215_ft_wide.jpg" alt="" />
+                <div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div>
+<div class="project-module js-project-module--text module project-module-text text align-center module-content-text">
+<div class="main-text">
+<div class="align-left">At InsureMyTrip, I asked for the chance to redo our high-traffic, e-commerce website. The website was outdated, not easy to update even for simple content changes, and lacked useful content and features like site search. Because it was ambitious, we called the project Super Redo.</div>
+<div class="align-left"> </div>
+<div class="align-left">The images below are from the presentation I made to senior management to pitch the project. I wanted the slides to be simple, with strong images to poke people attentive and little text so they would listen to my story rather than read the slides. I'll try to recreate a little of what I said back then beneath each slide.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer module-separator align-left">  </div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b3946e24462769.563349c708197.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b3946e24462769.563349c708197.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">This was the old and tired brand logo. I started with this because it represented a design state from which this project would attempt to shoulder the company forward.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer module-separator"> </div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/00823324462769.563349c71889c.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/00823324462769.563349c71889c.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">Next up was Cassius Clay (he hadn't changed his name yet) towering over Sonny Liston in '65. Phantom punch or not, Clay/Ali was and is still considered to be the best heavyweight in history. He was the greatest.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">We weren't aiming to make a better website or a good website; we wanted to make the greatest website. I don't know if we got to wear that crown after we were done, but we got where we got by aiming high.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer module-separator"> </div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f9bea624462769.563349c78dac0.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f9bea624462769.563349c78dac0.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">To achieve something great, first be clear about the goals.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer module-separator"> </div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/643ed624462769.563349c70d0f6.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/643ed624462769.563349c70d0f6.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">"Simple" is from John Maeda (and other folks, of course). "Enchanting" is from Guy Kawasaki. Great design makes complex things like insurance less complex. Great experiences end with people feeling happy. Yes, even experiences with insurance can leave people happy.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer module-separator"> </div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d1378924462769.563349c72311a.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d1378924462769.563349c72311a.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">This project had several customers: the people who purchased travel insurance on our website, the companies who sold travel insurance through our website, and all the people in our company who used and supported the website. I wanted to make sure that what we built would improve things for the two latter groups.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/443ff824462769.563349c72d968.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/443ff824462769.563349c72d968.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">WordPress is a relatively simple website administrative tool. It allows people to publish and do things, like we wanted our website to be for our internal users. It's also the most prolific publishing platform on the web, used by almost 25% of all websites. If we provided more value to our business partners, we could become that entrenched in the travel insurance web.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer module-separator"> </div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4d701324462769.563349c736f18.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4d701324462769.563349c736f18.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">In any ask, talk about the benefits.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/765efe24462769.563349c73a6e5.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/765efe24462769.563349c73a6e5.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">I believed that a great website would make the company more productive. I wanted the executive folks to understand the project as a good investment, from all the angles.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b9e57424462769.563349c745275.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b9e57424462769.563349c745275.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">I've never surfed but my impression that there's a focus that comes from a person, a board, and a wave. The Otter website is one of the cleanest and most focused sites I've seen, which speaks to its audience. Enchants them (a bit) like the water.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">This project was about so much of the website, not just the top layer. But, damnit, we were going to make that top layer speak to our audience and make them want to spend time on the site. We were making a siren. Without all the rocks and the crashing, of course.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<div class="ImageElement-root-33P ImageElement-loaded-1V2" ><img class="ImageElement-image-2K6" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cd859824462769.563349c74f390.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cd859824462769.563349c74f390.png 600w" alt=""></div>
+</div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">That's the Tower Building, considered to be New York City's first skyscraper. At that time, tall buildings were built of stone and brick. The skinny lot at 50 Broadway wouldn't allow for many stories (and not much income) with a stone building. The owner asked architects what could be done, and none had any ideas except for Bradford Gilbert, an architect of railroad stations (including Canton Junction, for you people local to Boston). He had seen a lot of railroad bridges and it occurred to him to turn one on its end: To use steel.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">People laughed at him. But it worked. And now we have skyscrapers.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">I heard that story on one of my favorite podcasts, <a href="http://99percentinvisible.org/" target="_blank" rel="nofollow noopener noreferrer">99% Invisible</a>, by Roman Mars. The story was told by Nate Dimeo.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">I told this story in the presentation to forewarn folks that to get to great, to reach higher, we would need to change some frameworks and, perhaps, some of the materials. But we would make choices that allowed everyone to go higher.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<img class="js-lazy image-loaded" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/eae94724462769.563349c756a45.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/eae94724462769.563349c756a45.png 600w" alt="" ></div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">How do you know if something's great? You measure it, of course. I had a goal of implementing a solid metrics program for the new website. During the project we updated from Urchin to Google Analytics and implemented ClickTale to watch our customers' behavior on the site.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">We built an A/B/Multivariate teasting framework into the site's new architecture. And we didn't just add site search, we added search with logging (obvious, I know) to learn from what people were searching for.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">With better data comes better decisions. We didn't just want to improve the site, we wanted to improve how we improved the site after the project was done.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<img class="js-lazy image-loaded" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9f40a24462769.563349c75e44b.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9f40a24462769.563349c75e44b.png 600w" alt="" ></div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">It looks a little funny to be talking about appliances in a proposal about an insurance website. I believed we could find a better way to help people find the right travel insurance for their trips by building a smarter, interactive solution. The above screenshot came from a website that did just that, for appliances.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">I can't go into the details of what I proposed for a travel insurance "assistive engine," because that information is InsureMyTrip's information.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<img class="js-lazy image-loaded" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5c1b2824462769.563349c76aaa4.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5c1b2824462769.563349c76aaa4.png 600w" alt="" ></div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">Let's see: We needed boxing gloves and a lot of steel. What else?</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<img class="js-lazy image-loaded" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f9534724462769.563349c76e12c.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f9534724462769.563349c76e12c.png 600w" alt="" ></div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">First and most importantly, we needed a great team with the right skills. We didn't get everybody we needed, but we did get great people: Chris, Hristo, Eric, Debra, Jerry, Wayne, Alex, and some others. They all worked hard and they all did great work.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<img class="js-lazy image-loaded" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b0aa7224462769.563349c77426b.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b0aa7224462769.563349c77426b.png 600w" alt="" ></div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">I knew that this would be a difficult project and that it would take some time. We'd need support during the difficult times. This project needed commitment from the team, the executives, and the organization.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<img class="js-lazy image-loaded" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d745b024462769.563349c77c81f.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d745b024462769.563349c77c81f.png 600w" alt="" ></div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">I believe in collocation. I believe people do their best work in inspirational spaces. We did get our own room with windows and whiteboards. I also got the iconic Farrah Fawcett poster (and hung a toddler-sized Run DMC t-shirt over her bathing suit), for inspiration. We got to know each other, we had fun, and we built trust.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Project-projectModuleContainer-2q2 qa-project-module-container">
+<div class="Module-module-35g root">
+<div class="js-project-module js-project-module--image project-module module image project-module-image Image-root-1tO" >
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<img class="js-lazy image-loaded" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a8f55424462769.563349c780feb.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a8f55424462769.563349c780feb.png 600w" alt="" ></div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">The actual project timeline, of course, looked nothing like this. And it went for 6 quarters, not 4. But considering we were a team of only 3 for the first 3 quarters, I consider the actual timeline a great accomplishment.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">I included this slide to let the executives know that we needed project planning.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="js-project-lightbox-link project-module-image-inner-wrap lightbox-link">
+<div> </div>
+<img class="js-lazy image-loaded" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f0ecd324462769.563349c7898c0.png" sizes="(max-width: 600px) 100vw, 600px" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f0ecd324462769.563349c7898c0.png 600w" alt="" ></div>
+<div class="project-module caption-container align-undefined" >
+<div class="module-caption caption caption-text-wrap" >
+<div class="sub-title"> </div>
+<div class="sub-title">I ended the presentation with a new version of our logo, created by <a href="https://www.behance.net/xpucmo" target="_blank" rel="nofollow noopener noreferrer">Hristo Kanchev</a>. It wasn't the final new logo. Hristo came up with something even better.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">From the old logo on the first slide to a new logo, from the old website to the new website, we were reinventing things. I believe that is what good design and good work should be.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">The new <a href="http://www.insuremytrip.com" target="_blank" rel="nofollow noopener noreferrer">InsureMyTrip website</a> launched fully in November, 2013 and resulted in a 15% increase in sales conversions (among other metric improvements). It's been awhile since I've been involved with the website or with InsureMyTrip. I'm not sure if it was the greatest website, but that's what we aimed for.</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Travel Insurance Reviews Product Brief</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html</id>
+            <category term="product-management"/>
+            <category term="brief"/>
+
+        <updated>2020-03-18T05:45:06-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png" alt="Travel Insurance Reviews project brief" />
+                    At InsureMyTrip I ptiched and led a project to add customer reviews&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png" alt="Travel Insurance Reviews project brief" />
+                <p>At InsureMyTrip I ptiched and led a project to add customer reviews to our website. To make sure the project team and management were heading in the same direction, I wrote the following product brief, reviewed it with stakeholders, and started our conversations in the kickoff meeting from it.</p>
+<figure class="post__image post__image" ><a href="travel-insurance-reviews-product-brief.pdf" title="Product brief in PDF format."><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png" alt="The Travel Insurance Reviews product brief. Click to view it as a PDF file." width="1275" height="1650"></a>
+<figcaption ><a href="travel-insurance-reviews-product-brief.pdf" title="Click to view or download the brief as a PDF file.">Click to view or download the brief as a PDF file.</a></figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A Tribute to Craft</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/a-tribute-to-craft.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/a-tribute-to-craft.html</id>
+
+        <updated>2020-03-18T05:44:50-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/16/Shinya-Kimura.jpg" alt="" />
+                    I've collected many things for inspiration. One of my favorites is this short&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/16/Shinya-Kimura.jpg" alt="" />
+                <div class="sub-title">I've collected many things for inspiration. One of my favorites is this short (under 3 minutes) documentary about <a href="http://en.wikipedia.org/wiki/Shinya_Kimura" target="_blank" rel="nofollow noopener noreferrer">Shinya Kimura</a>, a custom motorcycle maker from Japan. It's been a while since I had a motorcycle (a <a href="https://www.motorcycleclassics.com/classic-german-motorcycles/ten-days-1975-bmw-r90-6" title="Some info about a classic bike">1975 BMW R90/6</a>), but I still love beautiful machines.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">This guy could be building custom staplers, I wouldn't care. He's all about craft.</div>
+<div class="sub-title"> </div>
+<div class="sub-title">It's all about the craft.</div>
+<p><iframe width="640" height="360" src="https://player.vimeo.com/video/13159991?color=252b2b&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="https://vimeo.com/13159991">Shinya Kimura - Chabott Engineering</a> from <a href="https://vimeo.com/user4209232">Henrik Hansen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
             ]]>
         </content>
     </entry>
