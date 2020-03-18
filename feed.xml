@@ -3,7 +3,7 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-03-18T06:12:06-04:00</updated>
+    <updated>2020-03-18T06:56:18-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="responsive"/>
             <category term="mobile"/>
 
-        <updated>2020-03-18T06:11:51-04:00</updated>
+        <updated>2020-03-18T06:37:43-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-user-flow-thumbnail.png" alt="" />
@@ -30,31 +30,24 @@
             <![CDATA[
                     <img src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-user-flow-thumbnail.png" alt="" />
                 <p>The first large project I took on since returning to InsureMyTrip was to rethink the quoting process of our website. The product manager and I had several sessions talking with customers, in group sessions and individual usability testing, and one thing that stuck out was that they did not trust our recommendations for insurance plans. As one customer put it, "How can you recommend something for me when you know so little about me?"</p>
-<p>We met also with our Customer Care reps and listened in on many phone calls with customers. It was clear that the their sales process was moree conversational, and they asked more questions than the website did.</p>
+<p>We met also with our Customer Care reps and listened in on many phone calls with customers. It was clear that the their sales process was more conversational, and they asked more questions than the website did.</p>
 <p>We set some objectives:</p>
 <ul>
 <li>Get users to trust our recommendations.</li>
 <li>Create a more conversational experience that felt more human than typical insurance transactions.</li>
-<li>Write content that is more human than insurancy.</li>
 <li>Simplify the process wherever possible.</li>
 <li>Create an architecture that would empower us to a/b test any element on any screen.</li>
 </ul>
-<p>I mapped out a new flow, working closely with our Customer Care reps and our insurance analysts. I created a user flow diagram that I updated throughout the project:</p>
+<p>I mapped out a new user flow, working closely with our Customer Care reps and our insurance analysts. I created a user flow diagram that I updated throughout the project:</p>
 <figure class="post__image post__image" ><a href="convex-screen-flow-diagram.pdf"><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-screen-flow-diagram.png" alt="The new user flow for the redesigned quote process." width="3358" height="10932"></a>
 <figcaption >Click the image to view the flow as a <a href="convex-screen-flow-diagram.pdf">PDF file</a> (for easier zooming, etc.).</figcaption>
 </figure>
-<p>We followed LukeW's <a href="https://www.lukew.com/ff/entry.asp?933" title="The original mobile-first design concepts from Luke Wroblewski">mobile-first design</a> methods for this project, because our mobile traffic share is exploding, so we want to make sure we get it right on mobile and not just downsize a laptop experience. Second, by designing for thee smaller screen first, we forced to jettison what's unnecessary, which will help us keep the experience simple across all devices.</p>
+<p>We followed LukeW's <a href="https://www.lukew.com/ff/entry.asp?933" title="The original mobile-first design concepts from Luke Wroblewski">mobile-first design</a> methods for this project, because our mobile traffic share is exploding, so we want to make sure we get it right on mobile and not just downsize a laptop experience. Second, by designing for the smaller screen first, we have to jettison what's unnecessary, which will help us keep the experience simple across all devices.</p>
 <p>Here are a few screens from the mobile designs:</p>
-<figure class="post__image post__image" ><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/Screen-Shot-2020-03-18-at-02.36.45.png" alt="First screen of the quote process on phones" width="360" height="1426">
-<figcaption >Put your caption here</figcaption>
-</figure>
-<figure class="post__image post__image" ><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/Screen-Shot-2020-03-18-at-02.33.38.png" alt="Slide-out help panel" width="360" height="1600">
-<figcaption >Put your caption here</figcaption>
-</figure>
-<figure class="post__image post__image" ><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/Screen-Shot-2020-03-18-at-02.35.59.png" alt="Citizenship step of the quote process" width="360" height="1600">
-<figcaption >Put your caption here</figcaption>
-</figure>
-<p><a href="http://alysondesmarais.com/" title="Alyson Deesmarais's portfolio site">Alyson Desmarais</a> has been taking each mobile-first screen and designing it across the breakpoints:</p>
+<p><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/Screen-Shot-2020-03-18-at-02.36.45.png" alt="First screen of the quote process on phones" width="360" height="1426"></p>
+<p><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/Screen-Shot-2020-03-18-at-02.33.38.png" alt="Slide-out help panel" width="360" height="1600"></p>
+<p><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/Screen-Shot-2020-03-18-at-02.35.59.png" alt="Citizenship step of the quote process" width="360" height="1600"></p>
+<p><a href="http://alysondesmarais.com/" title="Alyson Desmarais's portfolio site">Alyson Desmarais</a> has been taking each mobile-first screen and designing it across the breakpoints:</p>
 <p><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-responsive-1.png" alt="The quote process on large screens" width="747" height="464"></p>
 <p><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-responsive-2.png" alt="The quote process on medium screens" width="534" height="464"> </p>
 <p><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-responsive-3.png" alt="The quote process on small screens" width="351" height="308"></p>
@@ -71,7 +64,7 @@
         <id>https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html</id>
             <category term="design-ops"/>
 
-        <updated>2020-03-18T05:47:05-04:00</updated>
+        <updated>2020-03-18T06:41:40-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System Table of Contents" />
@@ -83,7 +76,7 @@
                     <img src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System Table of Contents" />
                 <p>At InsureMyTrip design documentation was stored mainly in individual documents in Google docs. They weren't easily found and were updated rarely. The UX team wanted to create a living definition of the styles and components that would increase the collaboration between designers and developers; a.k.a., a design system.</p>
 <p>We looked at various design system tools, from Invision's <a href="https://www.invisionapp.com/design-system-manager" title="Invision's Design System Manager">Design System Manager</a> to our own instranet (<a href="https://www.atlassian.com/software/confluence" title="Atlassian's Confluence software">Confluence</a>) to open-source projects like <a href="https://storybook.js.org/" title="Storybook tool for building UI components">Storybook</a>. While we would have liked the polish of Design System Manager, we wanted to work more collaboratively with developers. We weren't able to implement Storybook just yet, so we settled on developing the system in GitLab using Markdown. We plan to use a tool like Storybook eventually.</p>
-<p>We wanted to structure the design system logically, around component-based development. We modeled the design system after Brad Frost's <a href="https://bradfrost.com/blog/post/atomic-web-design/" title="Brad Frost's writing on Atomic Design">Atomic Design methodology</a>. He and Dan Mall spoke at the <a href="https://artifactconf.com/" title="Artifact Conference website">Artifact Conference</a> we attended, and were inspired by Dan when he said (something like), "A design system can be just two components." That gave us some courage after we had spent hours looking at all the big and fancy designs systems.</p>
+<p>We wanted to structure the design system logically, around component-based development. We modeled the design system after Brad Frost's <a href="https://bradfrost.com/blog/post/atomic-web-design/" title="Brad Frost's writing on Atomic Design">Atomic Design methodology</a>. He and Dan Mall spoke at the <a href="https://artifactconf.com/" title="Artifact Conference website">Artifact Conference</a> in Austin, and we were inspired by Dan when he said (something like), "A design system can be just two components." That gave us some courage after we had spent hours looking at all the big and fancy designs systems.</p>
 <p><a href="http://alysondesmarais.com/" title="Alyson Desmarais's portfolio site">Alyson Desmarais</a> was instrumental in building our design system, writing specs and digging deep into the accessibility standards (WCAG Level AA) for each component. She's amazing.</p>
 <p>Here are some screenshots from the GitLab repository:</p>
 <p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System table of contents" width="1166" height="1090"></p>
@@ -102,18 +95,18 @@
         <id>https://christopherjacks.github.io/christopherjacks/design-principles.html</id>
             <category term="design-ops"/>
 
-        <updated>2020-03-18T06:10:22-04:00</updated>
+        <updated>2020-03-18T06:52:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/14/design-systems-atoms.jpg" alt="" />
-                    If you have rules, you can make only the decisions for problems&hellip;
+                    If you have rules, you can make decisions only for problems that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://christopherjacks.github.io/christopherjacks/media/posts/14/design-systems-atoms.jpg" alt="" />
-                <p class="align-left">If you have rules, you can make only the decisions for problems that fitt the rules. With principles, you cna make any decisions. It's why a system like Agile is so flexible; there are no rules, just the principles outlined in the <a href="https://agilemanifesto.org/" title="The Agile Manifesto website">manifesto</a>.</p>
-<p class="align-left">I've had various sets of design principles through the years, changing them as technology and I have evolved. Here's my latest version, which I defined for the InsureMyTrip Design System:</p>
+                <p class="align-left">If you have rules, you can make decisions only for problems that fit the rules. With principles, you can make any decisions. It's why a system like Agile is so flexible; there are no rules, just the principles outlined in the <a href="https://agilemanifesto.org/" title="The Agile Manifesto website">Agile manifesto</a>.</p>
+<p class="align-left">I've had various sets of design principles through the years, changing them as technology and I have evolved. Here's my latest version, which I defined for the <a href="standing-up-a-design-system.html" title="More information about the InsureMyTrip design system">InsureMyTrip Design System</a>:</p>
 <blockquote>
 <h1 id="mcetoc_1e3m1s8o10" class="align-left" dir="auto" >Principles</h1>
 <p class="align-left" dir="auto" >These are the principles from which we make design decisions.</p>
