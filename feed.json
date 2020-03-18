@@ -10,6 +10,35 @@
     },
     "items": [
         {
+            "id": "https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html",
+            "url": "https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html",
+            "title": "Responsive Design for InsureMyTrip",
+            "summary": "One of the must-have requirements of the website redesign project for InsureMyTrip&hellip;",
+            "content_html": "<div>One of the must-have requirements of the website redesign project for InsureMyTrip was to make the website work well on tablets and smart phones. Our traffic from mobile devices was around 15% and rising quickly. We decided on responsive web design to meet this demand and selected the Bootstrap framework for our responsive design solution. Hristo Kanchev, a lead designer on the project, contributed greatly to our responsive design efforts.</div>\n<div> </div>\n<div>We gathered mobile devices for on-the-fly testing but also used third-party services to ensure testing across a full-range of mobile platforms and manufacturers. We also built conversion funnels in Google Analytics specifically for tablets and phones. And we tested site performance on mobile devices. After all, performance is the first experience in any user experience.</div>\n<div> </div>\n<div>Looking at our current mobile device statistics, we decided on two breakpoints for responsive design, one for tablets and one for smart phones. Additional design considerations included mobile design best practices such as ensuring that page elements stacked usefully on smaller screens and eliminating elements such as large-sized images that would hinder performance on cellular networks. We started planning a different quote and buy process for smart phones, but realized quickly we would not be able to get that done during the project timeline.</div>\n<div> </div>\n<div>Here is the new homepage on a desktop screen:</div>\n<div><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/9/ba71bab4d6e92824f244245c_rw_1920.jpg\" alt=\"InsureMyTrip homepage\" width=\"1400\" height=\"1426\"></div>\n<div> </div>\n<div>Here is the wireframe for the homepage:</div>\n<div><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/9/c12cc4ac3082508fa17b2531_rw_1920.jpg\" alt=\"InsureMyTrip homepage wireframe\" width=\"1400\" height=\"2134\"></div>\n<div>Here is the view on tablets:</div>\n<div><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/9/23c73572c20f43d60b902c78_rw_1920.jpg\" alt=\"InsureMyTrip on tablets\" width=\"1400\" height=\"1369\"></div>\n<div>Here is the view on phone screens:</div>\n<div><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/9/575b95e802323f8971ffce0f_rw_1920.jpg\" alt=\"InsureMyTrip design for phones\" width=\"1400\" height=\"1971\"></div>",
+            "author": {
+                "name": "Chris Jackson"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-17T23:35:23-04:00",
+            "date_modified": "2020-03-17T23:39:00-04:00"
+        },
+        {
+            "id": "https://christopherjacks.github.io/christopherjacks/design-in-scrum.html",
+            "url": "https://christopherjacks.github.io/christopherjacks/design-in-scrum.html",
+            "title": "Design in Scrum",
+            "summary": "When I rejoined InsureMyTrip, we didn't have a good cadence for including UX&hellip;",
+            "content_html": "<p>When I rejoined InsureMyTrip, we didn't have a good cadence for including UX in their Scrum flow. I worked with the scrum master and product owner to define the process, reviewed it with stakeholders and the development teams, and got it going.</p>\n<p>A lot has been written about incorporating design tasks in Scrum. We decided on a parallel process with a number of checkins, including <a href=\"https://42floors.com/blog/startups/thirty-percent-feedback\" title=\"A blog post about getting feedback early in a process.\">30/60/90% reviews</a>. We managed our design tasks in a separate workflow, because they had different gates than a typical 2-week sprint. We also made sure that our work was represented in the teams' workflows, to increase transparency.</p>\n<p>We designed this workflow for non-project tickets, for maintenance work, new features, and a/b tests we ran on the current site. For a long project, we would modify the flow to fit how the team worked, and most likely do more concurrent design.</p>\n<p>Here is the workflow:</p>\n<p><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/7/imt-ux-design-process.png\" alt=\"A workflow diagram for our design process in Scrum.\" width=\"600\" height=\"4172\"></p>",
+            "author": {
+                "name": "Chris Jackson"
+            },
+            "tags": [
+                   "design-ops"
+            ],
+            "date_published": "2020-03-17T19:47:42-04:00",
+            "date_modified": "2020-03-17T21:05:59-04:00"
+        },
+        {
             "id": "https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html",
             "url": "https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html",
             "title": "Travel Insurance Reviews Product Brief",
@@ -39,7 +68,7 @@
                    "leadership"
             ],
             "date_published": "2020-03-16T05:06:57-04:00",
-            "date_modified": "2020-03-16T05:08:13-04:00"
+            "date_modified": "2020-03-17T19:03:10-04:00"
         },
         {
             "id": "https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html",
@@ -47,13 +76,17 @@
             "title": "This is MIT on Design Thinking ",
             "summary": "Shortly after joining MIT's IS&amp;T department to lead their UX team, I&hellip;",
             "content_html": "<div class=\"Module-module-35g root\">\n<div class=\"project-module js-project-module--text module project-module-text text align-left module-content-text\">\n<div class=\"main-text\">\n<div>Shortly after joining MIT's IS&amp;T department to lead their UX team, I worked with the team to define our discovery process. Because UX was a new group at IS&amp;T, it was important to evangelize and show how we worked and the value we added to projects.</div>\n<div> </div>\n<div>The current process was, mostly, that the project managers asked what the departments wanted and we built that. The head of IS&amp;T explained to me that it wasn't working.</div>\n<div> </div>\n<div>The process we defined looked like this:</div>\n<figure class=\"post__image undefined\" ><a href=\"mit-design-discovery-presentation.pdf\"><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png\" alt=\"The Design Discovery process we definied for MIT's IT department.\" width=\"960\" height=\"540\"></a>\n<figcaption >The design discovery process we defined and used for the IT department at MIT.</figcaption>\n</figure>\n<div><a href=\"https://www.behance.net/Muzi_Meng\" title=\"Muzi Meng's portfolio\">Muzi Meng</a>, a wonderful designer on our team, did the graphic design for the above image.</div>\n<div> </div>\n<div>Here's a short presentation I put together for a poster session to explain to departments across MIT how we used design thinking:</div>\n<figure class=\"post__image post__image\" ><a href=\"mit-design-discovery-presentation.pdf\"><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/4/mit-design-discovery-presentation-p1.png.001.png\" alt=\"First slide of the Design Discovery presentation.\" width=\"960\" height=\"540\"></a>\n<figcaption ><a href=\"mit-design-discovery-presentation.pdf\">The Design Discovery presentation (click to view the PDF version).</a></figcaption>\n</figure>\n<div> </div>\n</div>\n</div>\n</div>",
+            "image": "https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png",
             "author": {
                 "name": "Chris Jackson"
             },
             "tags": [
+                   "design-thinking",
+                   "design-ops",
+                   "design"
             ],
             "date_published": "2020-03-15T19:45:36-04:00",
-            "date_modified": "2020-03-17T18:50:36-04:00"
+            "date_modified": "2020-03-17T21:07:13-04:00"
         },
         {
             "id": "https://christopherjacks.github.io/christopherjacks/quantitative-analysis-for-brown-university.html",

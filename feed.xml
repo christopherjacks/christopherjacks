@@ -3,12 +3,71 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-03-17T18:54:05-04:00</updated>
+    <updated>2020-03-17T23:39:04-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
     <id>https://christopherjacks.github.io/christopherjacks</id>
 
+    <entry>
+        <title>Responsive Design for InsureMyTrip</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html</id>
+
+        <updated>2020-03-17T23:39:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                    One of the must-have requirements of the website redesign project for InsureMyTrip&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>One of the must-have requirements of the website redesign project for InsureMyTrip was to make the website work well on tablets and smart phones. Our traffic from mobile devices was around 15% and rising quickly. We decided on responsive web design to meet this demand and selected the Bootstrap framework for our responsive design solution. Hristo Kanchev, a lead designer on the project, contributed greatly to our responsive design efforts.</div>
+<div> </div>
+<div>We gathered mobile devices for on-the-fly testing but also used third-party services to ensure testing across a full-range of mobile platforms and manufacturers. We also built conversion funnels in Google Analytics specifically for tablets and phones. And we tested site performance on mobile devices. After all, performance is the first experience in any user experience.</div>
+<div> </div>
+<div>Looking at our current mobile device statistics, we decided on two breakpoints for responsive design, one for tablets and one for smart phones. Additional design considerations included mobile design best practices such as ensuring that page elements stacked usefully on smaller screens and eliminating elements such as large-sized images that would hinder performance on cellular networks. We started planning a different quote and buy process for smart phones, but realized quickly we would not be able to get that done during the project timeline.</div>
+<div> </div>
+<div>Here is the new homepage on a desktop screen:</div>
+<div><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/9/ba71bab4d6e92824f244245c_rw_1920.jpg" alt="InsureMyTrip homepage" width="1400" height="1426"></div>
+<div> </div>
+<div>Here is the wireframe for the homepage:</div>
+<div><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/9/c12cc4ac3082508fa17b2531_rw_1920.jpg" alt="InsureMyTrip homepage wireframe" width="1400" height="2134"></div>
+<div>Here is the view on tablets:</div>
+<div><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/9/23c73572c20f43d60b902c78_rw_1920.jpg" alt="InsureMyTrip on tablets" width="1400" height="1369"></div>
+<div>Here is the view on phone screens:</div>
+<div><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/9/575b95e802323f8971ffce0f_rw_1920.jpg" alt="InsureMyTrip design for phones" width="1400" height="1971"></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Design in Scrum</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/design-in-scrum.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/design-in-scrum.html</id>
+            <category term="design-ops"/>
+
+        <updated>2020-03-17T21:05:59-04:00</updated>
+            <summary>
+                <![CDATA[
+                    When I rejoined InsureMyTrip, we didn't have a good cadence for including UX&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When I rejoined InsureMyTrip, we didn't have a good cadence for including UX in their Scrum flow. I worked with the scrum master and product owner to define the process, reviewed it with stakeholders and the development teams, and got it going.</p>
+<p>A lot has been written about incorporating design tasks in Scrum. We decided on a parallel process with a number of checkins, including <a href="https://42floors.com/blog/startups/thirty-percent-feedback" title="A blog post about getting feedback early in a process.">30/60/90% reviews</a>. We managed our design tasks in a separate workflow, because they had different gates than a typical 2-week sprint. We also made sure that our work was represented in the teams' workflows, to increase transparency.</p>
+<p>We designed this workflow for non-project tickets, for maintenance work, new features, and a/b tests we ran on the current site. For a long project, we would modify the flow to fit how the team worked, and most likely do more concurrent design.</p>
+<p>Here is the workflow:</p>
+<p><img class="post__image" src="https://christopherjacks.github.io/christopherjacks/media/posts/7/imt-ux-design-process.png" alt="A workflow diagram for our design process in Scrum." width="600" height="4172"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Travel Insurance Reviews Product Brief</title>
         <author>
@@ -45,7 +104,7 @@
             <category term="pitch"/>
             <category term="leadership"/>
 
-        <updated>2020-03-16T05:08:13-04:00</updated>
+        <updated>2020-03-17T19:03:10-04:00</updated>
             <summary>
                 <![CDATA[
                     At InsureMyTrip, I asked for the chance to redo our high-traffic, e-commerce&hellip;
@@ -372,15 +431,20 @@
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html</id>
+            <category term="design-thinking"/>
+            <category term="design-ops"/>
+            <category term="design"/>
 
-        <updated>2020-03-17T18:50:36-04:00</updated>
+        <updated>2020-03-17T21:07:13-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png" alt="" />
                     Shortly after joining MIT's IS&amp;T department to lead their UX team, I&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png" alt="" />
                 <div class="Module-module-35g root">
 <div class="project-module js-project-module--text module project-module-text text align-left module-content-text">
 <div class="main-text">

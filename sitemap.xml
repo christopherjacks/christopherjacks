@@ -6,15 +6,43 @@
 </url>
 <url>
 <loc>https://christopherjacks.github.io/christopherjacks/about.html</loc>
-<lastmod>2020-03-15T11:52:31-04:00</lastmod>
+<lastmod>2020-03-17T22:50:54-04:00</lastmod>
+</url>
+<url>
+<loc>https://christopherjacks.github.io/christopherjacks/design-in-scrum.html</loc>
+<lastmod>2020-03-17T21:05:59-04:00</lastmod>
+<image:image>
+<image:loc>https://christopherjacks.github.io/christopherjacks/media/posts/7/imt-ux-design-process.png</image:loc>
+<image:title><![CDATA[A workflow diagram for our design process in Scrum.]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://christopherjacks.github.io/christopherjacks/pitching-a-site-overhaul.html</loc>
-<lastmod>2020-03-16T05:08:13-04:00</lastmod>
+<lastmod>2020-03-17T19:03:10-04:00</lastmod>
 </url>
 <url>
 <loc>https://christopherjacks.github.io/christopherjacks/quantitative-analysis-for-brown-university.html</loc>
 <lastmod>2020-03-15T11:23:48-04:00</lastmod>
+</url>
+<url>
+<loc>https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html</loc>
+<lastmod>2020-03-17T23:39:00-04:00</lastmod>
+<image:image>
+<image:loc>https://christopherjacks.github.io/christopherjacks/media/posts/9/ba71bab4d6e92824f244245c_rw_1920.jpg</image:loc>
+<image:title><![CDATA[InsureMyTrip homepage]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://christopherjacks.github.io/christopherjacks/media/posts/9/c12cc4ac3082508fa17b2531_rw_1920.jpg</image:loc>
+<image:title><![CDATA[InsureMyTrip homepage wireframe]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://christopherjacks.github.io/christopherjacks/media/posts/9/23c73572c20f43d60b902c78_rw_1920.jpg</image:loc>
+<image:title><![CDATA[InsureMyTrip on tablets]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://christopherjacks.github.io/christopherjacks/media/posts/9/575b95e802323f8971ffce0f_rw_1920.jpg</image:loc>
+<image:title><![CDATA[InsureMyTrip design for phones]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://christopherjacks.github.io/christopherjacks/resume.html</loc>
@@ -22,7 +50,11 @@
 </url>
 <url>
 <loc>https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html</loc>
-<lastmod>2020-03-17T18:50:36-04:00</lastmod>
+<lastmod>2020-03-17T21:07:13-04:00</lastmod>
+<image:image>
+<image:loc>https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 <image:image>
 <image:loc>https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png</image:loc>
 <image:title><![CDATA[The Design Discovery process we definied for MIT's IT department.]]></image:title>
