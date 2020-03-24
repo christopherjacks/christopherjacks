@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://christopherjacks.github.io/christopherjacks/jtbd-empathy-maps.html",
+            "url": "https://christopherjacks.github.io/christopherjacks/jtbd-empathy-maps.html",
+            "title": "JTBD Empathy Maps",
+            "summary": "At InsureMyTrip the product manager asked the UX team to do research&hellip;",
+            "content_html": "<p>At InsureMyTrip the product manager asked the UX team to do research into how customers used our site, specifically how they got insurance quotes. I jumped at the chance to spend some more time talking with our customers.</p>\n<p>We set the recruiting criteria, selected participants with various backgrounds, but ended up interviewing just 4 customers due to a change in priorities at the company level. We still learned a good number of ways we could better help people find the right travel insurance, so we put together our findings to share with the product manager and also the scrum team who eventually would work on our new quote process.</p>\n<p>Here's a screenshot of the notes that came out of the interviews:</p>\n<p><img class=\"post__image\" style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/convex-jtbd-interviews.png\" alt=\"A screenshot of the interview notes.\" width=\"1750\" height=\"1754\"></p>\n<p>I then put highlights from the notes into a format like empathy maps, but instead of the \"Say | Think | Do | Feel\" categories, I used the Jobs To Be Done categories of \"Habit | Anxiety | Push | Pull.\" Jobs To Be Done is a great framework for interviewing customers to figure out what motivates them to buy or not buy your products. To learn more, watch <a href=\"https://www.youtube.com/watch?v=sfGtw2C95Ms\" title=\"Clayton Christensen explains how to understand the job your customer is hiring your product to do.\">Clayton </a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"><a href=\"https://www.youtube.com/watch?v=sfGtw2C95Ms\" title=\"Clayton Christensen explains how to understand the job your customer is hiring your product to do.\">Christensen explain how to understand the job</a> (a.k.a., the Milkshake Video).</span></p>\n<p>Here is the presentation we used to share our findings with the business folks and the technical folks:</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.001.png\" ><img src=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.001-thumbnail.png\" alt=\"Presentation Slide 1\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.002.png\" ><img src=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.002-thumbnail.png\" alt=\"Presentation Slide 2\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.003.png\" ><img src=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.003-thumbnail.png\" alt=\"Presentation Slide 3\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.004.png\" ><img src=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.004-thumbnail.png\" alt=\"Presentation Slide 4\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.005.png\" ><img src=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.005-thumbnail.png\" alt=\"Presentation Slide 5\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.006.png\" ><img src=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.006-thumbnail.png\" alt=\"Presentation Slide 6\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.007.png\" ><img src=\"https://christopherjacks.github.io/christopherjacks/media/posts/19/gallery/convex-jtbd-presentation-slides.007-thumbnail.png\" alt=\"Presentation Slide 7\" width=\"768\" height=\"576\"></a></figure>\n</div>\n<p>You also can view the presentation as a <a href=\"convex-jtbd-empathy-maps.pdf\">PDF file</a>.</p>\n<p>I learned several things from this research:</p>\n<ul>\n<li>Jobs To Be Done does help you understand better how your customers think, but it takes some practice to get the interviewing right. I recommend practicing at least a few times before your first actual interview.</li>\n<li>A lot of what happens for our customers during the purchase process doesn't occur on our website. There are ways we can improve our site around that.</li>\n<li>I didn't record the conversations because I wanted our customers to be very comfortable with answering questions, because I asked a lot of questions. Next time, I'd try recording the conversations, because I'd like to share the recordings internally, because more of us in the company should be listening in.</li>\n</ul>",
+            "image": "https://christopherjacks.github.io/christopherjacks/media/posts/19/convex-jtbd-presentation-2.png",
+            "author": {
+                "name": "Chris Jackson"
+            },
+            "tags": [
+                   "user-research",
+                   "design-thinking"
+            ],
+            "date_published": "2020-03-23T23:30:29-04:00",
+            "date_modified": "2020-03-23T23:42:57-04:00"
+        },
+        {
             "id": "https://christopherjacks.github.io/christopherjacks/mobile-first-insurance-quotes.html",
             "url": "https://christopherjacks.github.io/christopherjacks/mobile-first-insurance-quotes.html",
             "title": "Mobile-First Insurance Quotes",
@@ -158,21 +175,6 @@
             ],
             "date_published": "1996-03-17T08:10:00-05:00",
             "date_modified": "2020-03-18T05:45:06-04:00"
-        },
-        {
-            "id": "https://christopherjacks.github.io/christopherjacks/a-tribute-to-craft.html",
-            "url": "https://christopherjacks.github.io/christopherjacks/a-tribute-to-craft.html",
-            "title": "A Tribute to Craft",
-            "summary": "I've collected many things for inspiration. One of my favorites is this short&hellip;",
-            "content_html": "<div class=\"sub-title\">I've collected many things for inspiration. One of my favorites is this short (under 3 minutes) documentary about <a href=\"http://en.wikipedia.org/wiki/Shinya_Kimura\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Shinya Kimura</a>, a custom motorcycle maker from Japan. It's been a while since I had a motorcycle (a <a href=\"https://www.motorcycleclassics.com/classic-german-motorcycles/ten-days-1975-bmw-r90-6\" title=\"Some info about a classic bike\">1975 BMW R90/6</a>), but I still love beautiful machines.</div>\n<div class=\"sub-title\"> </div>\n<div class=\"sub-title\">This guy could be building custom staplers, I wouldn't care. He's all about craft.</div>\n<div class=\"sub-title\"> </div>\n<div class=\"sub-title\">It's all about the craft.</div>\n<p><iframe width=\"640\" height=\"360\" src=\"https://player.vimeo.com/video/13159991?color=252b2b&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><a href=\"https://vimeo.com/13159991\">Shinya Kimura - Chabott Engineering</a> from <a href=\"https://vimeo.com/user4209232\">Henrik Hansen</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
-            "image": "https://christopherjacks.github.io/christopherjacks/media/posts/16/Shinya-Kimura.jpg",
-            "author": {
-                "name": "Chris Jackson"
-            },
-            "tags": [
-            ],
-            "date_published": "1995-03-18T02:07:00-05:00",
-            "date_modified": "2020-03-18T05:44:50-04:00"
         }
     ]
 }
