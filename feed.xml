@@ -3,12 +3,63 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-03-23T23:50:23-04:00</updated>
+    <updated>2020-03-25T13:06:30-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
     <id>https://christopherjacks.github.io/christopherjacks</id>
 
+    <entry>
+        <title>Playing to Win with an EHR</title>
+        <author>
+            <name>Chris Jackson</name>
+        </author>
+        <link href="https://christopherjacks.github.io/christopherjacks/playing-to-win-with-an-ehr.html"/>
+        <id>https://christopherjacks.github.io/christopherjacks/playing-to-win-with-an-ehr.html</id>
+            <category term="strategy"/>
+            <category term="product-management"/>
+
+        <updated>2020-03-25T13:05:21-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/20/P2W-Workshop-Day-2.008.png" alt="An example Playing to Win strategy from Oil of Olay" />
+                    In 2018 I worked at Smart Management, an electronic health records (EHR)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/20/P2W-Workshop-Day-2.008.png" alt="An example Playing to Win strategy from Oil of Olay" />
+                <p>In 2018 I worked at Smart Management, an electronic health records (EHR) software vendor for opioid clinics. Our strategy was not well-defined and we spent most of our time putting out fires. I pitched and was given the opportunity to lead a business strategy discovery process with the leadership team.</p>
+<p>I had used the <a href="https://hbr.org/books/playing-to-win" title="The Playing to Win book from HBR.">Playing to Win</a> strategy framework a few years back when I was at InsureMyTrip, where it proved to be a useful framework. Playing to Win was created by <a href="https://rogerlmartin.com/" title="Roger Martin's personal site">Roger Martin</a> when he was at Monitor Group and <a href="https://en.wikipedia.org/wiki/A.G._Lafley" title="A.G. Lafley's bio on Wikipedia">A.G. Lafley</a> when he was leading Procter &amp; Gamble. It focuses on defining the area in which you will compete and assessing your capabilities and needs for how you will win. It's a flexible framework which can be cascaded throughout an organization, to ensure alignment from top to bottom.</p>
+<p>I designed a workshop to introduce Playing to Win to the leadersship team and begin our strategy work, with the following presentation. The workshop took place over 3 days, so the presentation is long, with examples meant to be reviewed between meetings:</p>
+<figure class="post__image post__image" ><a href="p2w-training-presentation.PDF" title="The Playing To Win training presentation"><img src="https://christopherjacks.github.io/christopherjacks/media/posts/20/P2W-Workshop-Day-2.001.png" alt="The cover page from the training deck for Smart Managemenet's strategy planning" width="1024" height="768"></a>
+<figcaption >Click the above image to view the presentation as a <a href="p2w-training-presentation.PDF" title="The Playing To Win training presentation">PDF file</a>.</figcaption>
+</figure>
+<p>After the training, we spent several weeks determining where we wanted to play and how we might win. We assessed opportunities and risks, including the competition. We analyzed our capabilities, where we were strong and where we needed to be strong.</p>
+<p>We then assigned owners to our core capability areas and those folks defined their objectives and key results (<a href="https://en.wikipedia.org/wiki/OKR" title="OKRs explained on Wikipedia">OKRs</a>), created by Intel's Andy Grove and made popular by Google.  We then critiqued the OKRs as a team and shored them up.</p>
+<p>After our strategy was reviewed and tweaked, I put it all together in a presentation that our CEO gave to the company. At the end of the meeting, we had all the employees work in teams to provide feedback for us. We got great feedback and, just as important, increased everyone's understanding of the strategy and their buy-in.</p>
+<p>I can't share the final presentation, of course, but here are a few slides:</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://christopherjacks.github.io/christopherjacks/media/posts/20/gallery/SMART-Strategy-v6.001.png" ><img src="https://christopherjacks.github.io/christopherjacks/media/posts/20/gallery/SMART-Strategy-v6.001-thumbnail.png" alt="Cover slide" width="768" height="432"></a>
+<figcaption class="gallery-description">The presentation cover slide.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://christopherjacks.github.io/christopherjacks/media/posts/20/gallery/SMART-Strategy-v6.007.png" ><img src="https://christopherjacks.github.io/christopherjacks/media/posts/20/gallery/SMART-Strategy-v6.007-thumbnail.png" alt="Strategic problem statement" width="768" height="432"></a>
+<figcaption class="gallery-description">Our strategic problem.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://christopherjacks.github.io/christopherjacks/media/posts/20/gallery/SMART-Strategy-v6.018.png" ><img src="https://christopherjacks.github.io/christopherjacks/media/posts/20/gallery/SMART-Strategy-v6.018-thumbnail.png" alt="High-level activities map" width="768" height="432"></a>
+<figcaption class="gallery-description">The high-level activities map in Scorecard format.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://christopherjacks.github.io/christopherjacks/media/posts/20/gallery/SMART-Strategy-v6.023.png" ><img src="https://christopherjacks.github.io/christopherjacks/media/posts/20/gallery/SMART-Strategy-v6.023-thumbnail.png" alt="Detailed activities map" width="768" height="432"></a>
+<figcaption class="gallery-description">Detailed map for the Deliver Better activity.</figcaption>
+</figure>
+</div>
+<h2 id="mcetoc_1e49973l70">What I learned</h2>
+<p>This was my second time leading a company strrategy exercise. Both times, there was some resistance to learning a new way to think about strategy. Both times, I had to listen closely to the resistance, make sure people felt heard, and show the value this method offered. Both times, I learned more how to influence without authority.</p>
+<p>Strategy is hard. You have to take a position, make trade-offs, be able to say No, and make all the pieces fit. It's no wonder some companies short-cut their strategic planning. In this go round, I learned also how to stay patient and stay determined when discussions get hard.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>JTBD Empathy Maps</title>
         <author>
@@ -679,34 +730,6 @@
 <div class="sub-title">The new <a href="http://www.insuremytrip.com" target="_blank" rel="nofollow noopener noreferrer">InsureMyTrip website</a> launched fully in November, 2013 and resulted in a 15% increase in sales conversions (among other metric improvements). That felt pretty great.</div>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Travel Insurance Reviews Product Brief</title>
-        <author>
-            <name>Chris Jackson</name>
-        </author>
-        <link href="https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html"/>
-        <id>https://christopherjacks.github.io/christopherjacks/travel-insurance-reviews-product-brief.html</id>
-            <category term="product-management"/>
-            <category term="brief"/>
-
-        <updated>2020-03-18T05:45:06-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png" alt="Travel Insurance Reviews project brief" />
-                    At InsureMyTrip I ptiched and led a project to add customer reviews&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png" alt="Travel Insurance Reviews project brief" />
-                <p>At InsureMyTrip I ptiched and led a project to add customer reviews to our website. To make sure the project team and management were heading in the same direction, I wrote the following product brief, reviewed it with stakeholders, and started our conversations in the kickoff meeting from it.</p>
-<figure class="post__image post__image" ><a href="travel-insurance-reviews-product-brief.pdf" title="Product brief in PDF format."><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/6/travel-insurance-reviews-product-brief.png" alt="The Travel Insurance Reviews product brief. Click to view it as a PDF file." width="1275" height="1650"></a>
-<figcaption ><a href="travel-insurance-reviews-product-brief.pdf" title="Click to view or download the brief as a PDF file.">Click to view or download the brief as a PDF file.</a></figcaption>
-</figure>
-<p> </p>
             ]]>
         </content>
     </entry>
