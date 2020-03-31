@@ -109,6 +109,23 @@
             "date_modified": "2020-03-18T05:46:42-04:00"
         },
         {
+            "id": "https://christopherjacks.github.io/christopherjacks/idea-to-innovation.html",
+            "url": "https://christopherjacks.github.io/christopherjacks/idea-to-innovation.html",
+            "title": "Idea to Innovation",
+            "summary": "While I was at Mojotech we consulted with Amica Insurance as they&hellip;",
+            "content_html": "<p>While I was at Mojotech we consulted with Amica Insurance as they were starting an innovation program. Mike Davis and I shared some ideas and things to consider as they ramped up.</p>\n<p>One of my tasks was to diagram the innovation funnel. My first step was research. Here are some notes I took:</p>\n<p><img class=\"post__image\" style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/22/Notes-for-The-Idea-to-Innovation-Process.png\" alt=\"A screenshot of my research notes.\" width=\"1275\" height=\"1650\"></p>\n<p>I then created a spreadsheet to map out the process:</p>\n<p><img class=\"post__image\" style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/22/Spreadsheet-f0r-The-Idea-to-Innovation-Process.png\" alt=\"A screenshot of my spreadsheet synthesizing information from my notes.\" width=\"3945\" height=\"1443\"></p>\n<p>I took the most important points from the spreadsheet and created the following diagram that was included in our presentation:</p>\n<p><img class=\"post__image\" style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/22/Funnel-Image-for-the-Idea-to-Innovation-Process.png.001.png\" alt=\"A slide from the presentation with the innovation funnel.\" width=\"1920\" height=\"1080\"></p>\n<h2 id=\"mcetoc_1e4oj8k270\">What I learned</h2>\n<p>Being a designer and a product manager, I've been responsible for innovation efforts for a variety of programs and products. For this presentation, I got the chance to look at the innovation process from a more theoretical view and study how different companies approached innovation.</p>\n<p>When I started putting together my ideas, it helped to think of the innovation process in two parts: governance and development. They have different processes, with different roles and different objectives.</p>",
+            "image": "https://christopherjacks.github.io/christopherjacks/media/posts/22/Funnel-Image-for-the-Idea-to-Innovation-Process.png.001.png",
+            "author": {
+                "name": "Chris Jackson"
+            },
+            "tags": [
+                   "strategy",
+                   "innovation"
+            ],
+            "date_published": "2000-08-15T11:34:00-04:00",
+            "date_modified": "2020-03-31T11:36:27-04:00"
+        },
+        {
             "id": "https://christopherjacks.github.io/christopherjacks/problem-discovery-at-mit.html",
             "url": "https://christopherjacks.github.io/christopherjacks/problem-discovery-at-mit.html",
             "title": "Problem Discovery at MIT",
@@ -159,24 +176,6 @@
             ],
             "date_published": "1999-03-18T02:20:00-05:00",
             "date_modified": "2020-03-20T14:16:48-04:00"
-        },
-        {
-            "id": "https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html",
-            "url": "https://christopherjacks.github.io/christopherjacks/responsive-design-for-insuremytrip.html",
-            "title": "Responsive Design for InsureMyTrip",
-            "summary": "One of the must-have requirements of the website redesign project for InsureMyTrip&hellip;",
-            "content_html": "<div>One of the must-have requirements of the website redesign project for InsureMyTrip was to make the website work well on tablets and phones. Our traffic from mobile devices was around 15% and rising quickly. We used responsive web design to meet this demand and selected the Bootstrap framework. <a href=\"https://kanchev.com/\" title=\"Hristo Kanchev's portfolio site\">Hristo Kanchev</a>, a lead designer on the project, contributed greatly to our responsive design efforts.</div>\n<div> </div>\n<div>We gathered mobile devices for on-the-fly testing but also used third-party services to ensure testing across a full-range of mobile platforms and manufacturers. We also built conversion funnels in Google Analytics specifically for tablets and phones. And we tested site performance on mobile devices. After all, performance is the first experience in any user experience.</div>\n<div> </div>\n<div>Looking at our current mobile device statistics, we decided on two breakpoints for responsive design, one for tablets and one for phones. Additional design considerations included mobile design best practices such as ensuring that page elements stacked usefully on smaller screens and eliminating elements such as large-sized images that might hinder performance on cellular networks. We started planning a different quote and buy process for phones, but realized quickly we would not be able to get that done during the project timeline.</div>\n<div> </div>\n<div>Here is the new homepage on a desktop screen:</div>\n<div><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/9/ba71bab4d6e92824f244245c_rw_1920.jpg\" alt=\"InsureMyTrip homepage\" width=\"1400\" height=\"1426\"></div>\n<div> </div>\n<div>Here is the wireframe for the homepage:</div>\n<div><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/9/c12cc4ac3082508fa17b2531_rw_1920.jpg\" alt=\"InsureMyTrip homepage wireframe\" width=\"1400\" height=\"2134\"></div>\n<div>Here is the view on tablets:</div>\n<div><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/9/23c73572c20f43d60b902c78_rw_1920.jpg\" alt=\"InsureMyTrip on tablets\" width=\"1400\" height=\"1369\"></div>\n<div>Here is the view on phone screens:</div>\n<div><img class=\"post__image\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/9/575b95e802323f8971ffce0f_rw_1920.jpg\" alt=\"InsureMyTrip design for phones\" width=\"1400\" height=\"1971\"></div>",
-            "image": "https://christopherjacks.github.io/christopherjacks/media/posts/9/imt-homepage.jpg",
-            "author": {
-                "name": "Chris Jackson"
-            },
-            "tags": [
-                   "ux-design",
-                   "responsive",
-                   "mobile"
-            ],
-            "date_published": "1998-03-17T23:35:00-05:00",
-            "date_modified": "2020-03-18T07:31:02-04:00"
         }
     ]
 }
