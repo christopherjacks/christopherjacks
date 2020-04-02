@@ -3,7 +3,7 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-03-31T11:50:02-04:00</updated>
+    <updated>2020-04-02T08:46:39-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
@@ -112,10 +112,11 @@
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/mobile-first-insurance-quotes.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/mobile-first-insurance-quotes.html</id>
+            <category term="ux-design"/>
             <category term="responsive"/>
             <category term="mobile"/>
 
-        <updated>2020-03-18T06:37:43-04:00</updated>
+        <updated>2020-04-02T08:46:29-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-user-flow-thumbnail.png" alt="" />
@@ -281,7 +282,7 @@
             <category term="strategy"/>
             <category term="innovation"/>
 
-        <updated>2020-03-31T11:36:27-04:00</updated>
+        <updated>2020-03-31T16:05:01-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/22/Funnel-Image-for-the-Idea-to-Innovation-Process.png.001.png" alt="The innovation funnel process." />
@@ -293,7 +294,7 @@
                     <img src="https://christopherjacks.github.io/christopherjacks/media/posts/22/Funnel-Image-for-the-Idea-to-Innovation-Process.png.001.png" alt="The innovation funnel process." />
                 <p>While I was at Mojotech we consulted with Amica Insurance as they were starting an innovation program. Mike Davis and I shared some ideas and things to consider as they ramped up.</p>
 <p>One of my tasks was to diagram the innovation funnel. My first step was research. Here are some notes I took:</p>
-<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/22/Notes-for-The-Idea-to-Innovation-Process.png" alt="A screenshot of my research notes." width="1275" height="1650"></p>
+<p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/22/Notes-for-Idea-to-Innovation-Presentation.png" alt="Notes from my research on innovation." width="2550" height="3300"></p>
 <p>I then created a spreadsheet to map out the process:</p>
 <p><img class="post__image" style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/22/Spreadsheet-f0r-The-Idea-to-Innovation-Process.png" alt="A screenshot of my spreadsheet synthesizing information from my notes." width="3945" height="1443"></p>
 <p>I took the most important points from the spreadsheet and created the following diagram that was included in our presentation:</p>
