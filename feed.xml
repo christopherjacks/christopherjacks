@@ -3,7 +3,7 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-04-07T14:51:17-04:00</updated>
+    <updated>2020-04-07T15:01:27-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
@@ -16,10 +16,11 @@
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/jtbd-empathy-maps.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/jtbd-empathy-maps.html</id>
+            <category term="ux-design"/>
             <category term="user-research"/>
-            <category term="design-thinking"/>
+            <category term="product-management"/>
 
-        <updated>2020-03-23T23:42:57-04:00</updated>
+        <updated>2020-04-07T14:56:38-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/19/convex-jtbd-presentation-2.png" alt="An empathy map (Jobs To Be Done style) from customer research." />
@@ -62,10 +63,9 @@
         <link href="https://christopherjacks.github.io/christopherjacks/mobile-first-insurance-quotes.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/mobile-first-insurance-quotes.html</id>
             <category term="ux-design"/>
-            <category term="responsive"/>
             <category term="mobile"/>
 
-        <updated>2020-04-02T08:46:29-04:00</updated>
+        <updated>2020-04-07T14:56:57-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-user-flow-thumbnail.png" alt="" />
@@ -108,9 +108,10 @@
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html</id>
+            <category term="ux-design"/>
             <category term="design-ops"/>
 
-        <updated>2020-03-18T06:41:40-04:00</updated>
+        <updated>2020-04-07T15:00:36-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/13/Screenshot_2020-03-18-Files-master-Designers-design-system.png" alt="Design System Table of Contents" />
@@ -139,9 +140,10 @@
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/design-principles.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/design-principles.html</id>
+            <category term="ux-design"/>
             <category term="design-ops"/>
 
-        <updated>2020-03-18T06:52:39-04:00</updated>
+        <updated>2020-04-07T15:00:21-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/14/design-systems-atoms.jpg" alt="" />
@@ -201,9 +203,10 @@
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/design-in-scrum.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/design-in-scrum.html</id>
+            <category term="ux-design"/>
             <category term="design-ops"/>
 
-        <updated>2020-03-18T05:46:42-04:00</updated>
+        <updated>2020-04-07T15:01:06-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/7/design-process-thumbnail.png" alt="" />
@@ -281,9 +284,8 @@
         <id>https://christopherjacks.github.io/christopherjacks/product-backlog-for-an-ehr.html</id>
             <category term="strategy"/>
             <category term="product-management"/>
-            <category term="brief"/>
 
-        <updated>2020-04-07T14:50:20-04:00</updated>
+        <updated>2020-04-07T14:54:13-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/23/test-to-treatment-trello-board.png" alt="The Trello board for this projectt" />
@@ -335,9 +337,8 @@
         <link href="https://christopherjacks.github.io/christopherjacks/idea-to-innovation.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/idea-to-innovation.html</id>
             <category term="strategy"/>
-            <category term="innovation"/>
 
-        <updated>2020-03-31T16:05:01-04:00</updated>
+        <updated>2020-04-07T14:57:16-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/22/Funnel-Image-for-the-Idea-to-Innovation-Process.png.001.png" alt="The innovation funnel process." />
@@ -423,10 +424,10 @@
         </author>
         <link href="https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html"/>
         <id>https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html</id>
-            <category term="design-thinking"/>
+            <category term="ux-design"/>
             <category term="design-ops"/>
 
-        <updated>2020-03-18T07:25:40-04:00</updated>
+        <updated>2020-04-07T14:55:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png" alt="" />
