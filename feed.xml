@@ -3,7 +3,7 @@
     <title>Chris Jackson | Product Manager &amp; Designer</title>
     <link href="https://christopherjacks.github.io/christopherjacks/feed.xml" rel="self" />
     <link href="https://christopherjacks.github.io/christopherjacks" />
-    <updated>2020-04-10T11:38:42-04:00</updated>
+    <updated>2020-04-10T12:39:17-04:00</updated>
     <author>
         <name>Chris Jackson</name>
     </author>
@@ -65,7 +65,7 @@
             <category term="ux-design"/>
             <category term="mobile"/>
 
-        <updated>2020-04-07T14:56:57-04:00</updated>
+        <updated>2020-04-10T12:39:10-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-user-flow-thumbnail.png" alt="" />
@@ -85,7 +85,7 @@
 <li>Create an architecture that would empower us to a/b test any element on any screen.</li>
 </ul>
 <p>I mapped out a new user flow, working closely with our Customer Care reps and our insurance analysts. I created a user flow diagram that I updated throughout the project:</p>
-<figure class="post__image post__image" ><a href="convex-screen-flow-diagram.pdf"><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-screen-flow-diagram.png" alt="The new user flow for the redesigned quote process." width="3358" height="10932"></a>
+<figure class="post__image" ><a href="convex-screen-flow-diagram.pdf"><img style="border: 1px solid gray;" src="https://christopherjacks.github.io/christopherjacks/media/posts/18/convex-screen-flow-diagram_1.svg" alt="The user flow map for the quote application." width="4477" height="14576"></a>
 <figcaption >Click the image to view the flow as a <a href="convex-screen-flow-diagram.pdf">PDF file</a> (for easier zooming, etc.).</figcaption>
 </figure>
 <p>We followed LukeW's <a href="https://www.lukew.com/ff/entry.asp?933" title="The original mobile-first design concepts from Luke Wroblewski">mobile-first design</a> methods for this project, because our mobile traffic share is exploding, so we want to make sure we get it right on mobile and not just downsize a laptop experience. Second, by designing for the smaller screen first, we have to jettison what's unnecessary, which will help us keep the experience simple across all devices.</p>
