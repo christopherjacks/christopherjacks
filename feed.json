@@ -45,6 +45,23 @@
             "date_modified": "2020-04-10T12:39:10-04:00"
         },
         {
+            "id": "https://christopherjacks.github.io/christopherjacks/product-brief-for-insurance-quotes.html",
+            "url": "https://christopherjacks.github.io/christopherjacks/product-brief-for-insurance-quotes.html",
+            "title": "Product Brief for Insurance Quotes",
+            "summary": "At InsureMyTrip we met with customers to gather feedback about the quote&hellip;",
+            "content_html": "At InsureMyTrip we met with customers to gather feedback about the quote and buy process on our site. We heard a lot, identified and prioritized problems, and analyzed our opportunities, based on the following factors:\n<ul>\n<li>Value for customers</li>\n<li>Effort for us</li>\n<li>Alignment with product and business strategies</li>\n</ul>\n<p>The highest scoring opportunity was to redesign and rebuild our quoting process. I wrote the following product brief for the kickoff meeting. The brief led to a lot of good discussion during the kickoff. After the meeting, I got feedback that the team felt on the same page and understand the project objectives.</p>\n<figure class=\"post__image post__image\" ><a href=\"convex-product-brief.svg\"><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/24/convex-product-brief.svg\" alt=\"The product brief for the Quote Redesign project\" width=\"612\" height=\"792\"></a>\n<figcaption >Click to open the brief as a <a href=\"convex-product-brief.svg\">PDF file</a>.</figcaption>\n</figure>\n<p> </p>",
+            "image": "https://christopherjacks.github.io/christopherjacks/media/posts/24/convex-product-brief.svg",
+            "author": {
+                "name": "Chris Jackson"
+            },
+            "tags": [
+                   "strategy",
+                   "product-management"
+            ],
+            "date_published": "2003-04-18T23:10:00-04:00",
+            "date_modified": "2020-04-12T23:29:02-04:00"
+        },
+        {
             "id": "https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html",
             "url": "https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html",
             "title": "Standing up a Design System",
@@ -162,23 +179,6 @@
             ],
             "date_published": "2000-05-15T11:26:00-04:00",
             "date_modified": "2020-03-30T12:29:38-04:00"
-        },
-        {
-            "id": "https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html",
-            "url": "https://christopherjacks.github.io/christopherjacks/this-is-mit-on-design-thinking.html",
-            "title": "This is MIT on Design Thinking ",
-            "summary": "Shortly after joining MIT's IS&amp;T department to lead their UX team, I&hellip;",
-            "content_html": "<div class=\"Module-module-35g root\">\n<div class=\"project-module js-project-module--text module project-module-text text align-left module-content-text\">\n<div class=\"main-text\">\n<div>Shortly after joining MIT's IS&amp;T department to lead their UX team, I worked with the team to define our discovery process. Because UX was a new group at IS&amp;T, it was important to evangelize and show how we worked and the value we added to projects.</div>\n<div>The current process was, mostly, that the project managers asked what the departments wanted and we built that. The head of IS&amp;T explained to me that it wasn't working. I wasn't surprised.</div>\n<div>The process we defined looked like this:</div>\n<figure class=\"post__image post__image\" ><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation_5.svg\" alt=\"The Design Discover process at MIT\" width=\"960\" height=\"540\">\n<figcaption >The design discovery process we defined and used for the IT department at MIT.</figcaption>\n</figure>\n<div><a href=\"https://www.behance.net/Muzi_Meng\" title=\"Muzi Meng's portfolio\">Muzi Meng</a>, a wonderful designer on our team, did the graphic design for the above image.</div>\n<div>Here's a short presentation I put together for a poster session to explain to departments across MIT how we used design thinking:</div>\n<figure class=\"post__image\" ><a href=\"mit-design-discovery-presentation.pdf\"><img class=\"post__image\" style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation_1.svg\" alt=\"Title slide for the Design Discovery presentation\" width=\"960\" height=\"540\"></a>\n<figcaption >The Design Discovery presentation (click to view the <a href=\"mit-design-discovery-presentation.pdf\">PDF version</a>).</figcaption>\n</figure>\n</div>\n</div>\n</div>",
-            "image": "https://christopherjacks.github.io/christopherjacks/media/posts/4/Design-Discovery-Presentation.png",
-            "author": {
-                "name": "Chris Jackson"
-            },
-            "tags": [
-                   "ux-design",
-                   "design-ops"
-            ],
-            "date_published": "2000-03-15T19:45:00-05:00",
-            "date_modified": "2020-04-10T11:38:12-04:00"
         }
     ]
 }
