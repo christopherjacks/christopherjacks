@@ -49,7 +49,7 @@
             "url": "https://christopherjacks.github.io/christopherjacks/product-brief-for-insurance-quotes.html",
             "title": "Product Brief for Insurance Quotes",
             "summary": "At InsureMyTrip we met with customers to gather feedback about the quote&hellip;",
-            "content_html": "At InsureMyTrip we met with customers to gather feedback about the quote and buy process on our site. We heard a lot, identified and prioritized problems, and analyzed our opportunities, based on the following factors:\n<ul>\n<li>Value for customers</li>\n<li>Effort for us</li>\n<li>Alignment with product and business strategies</li>\n</ul>\n<p>The highest scoring opportunity was to redesign and rebuild our quoting process. I wrote the following product brief for the kickoff meeting. The brief led to a lot of good discussion during the kickoff. After the meeting, I got feedback that the team felt on the same page and understand the project objectives.</p>\n<figure class=\"post__image post__image\" ><a href=\"convex-product-brief.svg\"><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/24/convex-product-brief.svg\" alt=\"The product brief for the Quote Redesign project\" width=\"612\" height=\"792\"></a>\n<figcaption >Click to open the brief as a <a href=\"convex-product-brief.svg\">PDF file</a>.</figcaption>\n</figure>\n<p> </p>",
+            "content_html": "<p>At InsureMyTrip we met with customers to gather feedback about the quote and buy process on our site. We heard a lot, identified and prioritized problems, and analyzed our opportunities, based on the following factors:</p>\n<ul>\n<li>Value for customers</li>\n<li>Effort for us</li>\n<li>Alignment with product and business strategies</li>\n</ul>\n<p>The highest scoring opportunity was to redesign and rebuild our quoting process. I wrote the following product brief for the kickoff meeting. The brief led to a lot of good discussion during the kickoff. After the meeting, I got feedback that the team felt on the same page and understood the project objectives.</p>\n<figure class=\"post__image undefined\" ><a href=\"convex-product-brief.svg\"><img style=\"border: 1px solid gray;\" src=\"https://christopherjacks.github.io/christopherjacks/media/posts/24/convex-product-brief.svg\" alt=\"The product brief for the Quote Redesign project\" width=\"1275\" height=\"1650\"></a>\n<figcaption >Click to open the brief as a <a href=\"convex-product-brief.svg\">PDF file</a>.</figcaption>\n</figure>\n<p> </p>",
             "image": "https://christopherjacks.github.io/christopherjacks/media/posts/24/convex-product-brief.svg",
             "author": {
                 "name": "Chris Jackson"
@@ -59,7 +59,7 @@
                    "product-management"
             ],
             "date_published": "2003-04-18T23:10:00-04:00",
-            "date_modified": "2020-04-12T23:29:02-04:00"
+            "date_modified": "2020-04-12T23:44:50-04:00"
         },
         {
             "id": "https://christopherjacks.github.io/christopherjacks/standing-up-a-design-system.html",
